@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='MSBDtemplate' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+
+
+    <data
+id="Islam"
+spec="Alignment"
+name="alignment">
+                        <sequence id="seq_01_Kaysani" spec="Sequence" taxon="01_Kaysani" totalcount="4" value="?"/>
+                        <sequence id="seq_02_Azraqi" spec="Sequence" taxon="02_Azraqi" totalcount="4" value="?"/>
+                        <sequence id="seq_03_Ibadi" spec="Sequence" taxon="03_Ibadi" totalcount="4" value="?"/>
+                        <sequence id="seq_04_Sufri" spec="Sequence" taxon="04_Sufri" totalcount="4" value="?"/>
+                        <sequence id="seq_05_KhorramDinan" spec="Sequence" taxon="05_KhorramDinan" totalcount="4" value="?"/>
+                        <sequence id="seq_06_Bajaliyya" spec="Sequence" taxon="06_Bajaliyya" totalcount="4" value="?"/>
+                        <sequence id="seq_07_Maliki" spec="Sequence" taxon="07_Maliki" totalcount="4" value="?"/>
+                        <sequence id="seq_08_Zahiri" spec="Sequence" taxon="08_Zahiri" totalcount="4" value="?"/>
+                        <sequence id="seq_09_Alawi" spec="Sequence" taxon="09_Alawi" totalcount="4" value="?"/>
+                        <sequence id="seq_10_Ishaqi" spec="Sequence" taxon="10_Ishaqi" totalcount="4" value="?"/>
+                        <sequence id="seq_11_Nasiri" spec="Sequence" taxon="11_Nasiri" totalcount="4" value="?"/>
+                        <sequence id="seq_12_Qarmatian" spec="Sequence" taxon="12_Qarmatian" totalcount="4" value="?"/>
+                        <sequence id="seq_13_Druze" spec="Sequence" taxon="13_Druze" totalcount="4" value="?"/>
+                        <sequence id="seq_14_Husayni" spec="Sequence" taxon="14_Husayni" totalcount="4" value="?"/>
+                        <sequence id="seq_15_Mutarrifi" spec="Sequence" taxon="15_Mutarrifi" totalcount="4" value="?"/>
+                        <sequence id="seq_16_Qasimi" spec="Sequence" taxon="16_Qasimi" totalcount="4" value="?"/>
+                        <sequence id="seq_17_Hafizi" spec="Sequence" taxon="17_Hafizi" totalcount="4" value="?"/>
+                        <sequence id="seq_18_Muhammadshahi" spec="Sequence" taxon="18_Muhammadshahi" totalcount="4" value="?"/>
+                        <sequence id="seq_19_AhliHaqq" spec="Sequence" taxon="19_AhliHaqq" totalcount="4" value="?"/>
+                        <sequence id="seq_20_Imamshahi" spec="Sequence" taxon="20_Imamshahi" totalcount="4" value="?"/>
+                        <sequence id="seq_21_Qasimshahi" spec="Sequence" taxon="21_Qasimshahi" totalcount="4" value="?"/>
+                        <sequence id="seq_22_Akhbari" spec="Sequence" taxon="22_Akhbari" totalcount="4" value="?"/>
+                        <sequence id="seq_23_Alevi" spec="Sequence" taxon="23_Alevi" totalcount="4" value="?"/>
+                        <sequence id="seq_24_Sulaymani" spec="Sequence" taxon="24_Sulaymani" totalcount="4" value="?"/>
+                        <sequence id="seq_25_OtherHanbali" spec="Sequence" taxon="25_OtherHanbali" totalcount="4" value="?"/>
+                        <sequence id="seq_26_Wahhabi" spec="Sequence" taxon="26_Wahhabi" totalcount="4" value="?"/>
+                        <sequence id="seq_27_Daudi" spec="Sequence" taxon="27_Daudi" totalcount="4" value="?"/>
+                        <sequence id="seq_28_Hibtia" spec="Sequence" taxon="28_Hibtia" totalcount="4" value="?"/>
+                        <sequence id="seq_29_Alia" spec="Sequence" taxon="29_Alia" totalcount="4" value="?"/>
+                        <sequence id="seq_30_Nagoshia" spec="Sequence" taxon="30_Nagoshia" totalcount="4" value="?"/>
+                        <sequence id="seq_31_Faraizi" spec="Sequence" taxon="31_Faraizi" totalcount="4" value="?"/>
+                        <sequence id="seq_32_Usuli" spec="Sequence" taxon="32_Usuli" totalcount="4" value="?"/>
+                        <sequence id="seq_33_Azali" spec="Sequence" taxon="33_Azali" totalcount="4" value="?"/>
+                        <sequence id="seq_34_Bahai" spec="Sequence" taxon="34_Bahai" totalcount="4" value="?"/>
+                        <sequence id="seq_35_AhliHadith" spec="Sequence" taxon="35_AhliHadith" totalcount="4" value="?"/>
+                        <sequence id="seq_36_Aligarh" spec="Sequence" taxon="36_Aligarh" totalcount="4" value="?"/>
+                        <sequence id="seq_37_Barelwi" spec="Sequence" taxon="37_Barelwi" totalcount="4" value="?"/>
+                        <sequence id="seq_38_Deobandi" spec="Sequence" taxon="38_Deobandi" totalcount="4" value="?"/>
+                        <sequence id="seq_39_Jadid" spec="Sequence" taxon="39_Jadid" totalcount="4" value="?"/>
+                        <sequence id="seq_40_Ansar" spec="Sequence" taxon="40_Ansar" totalcount="4" value="?"/>
+                        <sequence id="seq_41_OtherShafii" spec="Sequence" taxon="41_OtherShafii" totalcount="4" value="?"/>
+                        <sequence id="seq_42_OtherHanafi" spec="Sequence" taxon="42_OtherHanafi" totalcount="4" value="?"/>
+                        <sequence id="seq_43_Salafi" spec="Sequence" taxon="43_Salafi" totalcount="4" value="?"/>
+                        <sequence id="seq_44_Lahore" spec="Sequence" taxon="44_Lahore" totalcount="4" value="?"/>
+                        <sequence id="seq_45_Qadiani" spec="Sequence" taxon="45_Qadiani" totalcount="4" value="?"/>
+                    </data>
+
+
+
+
+
+
+
+
+
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+<Uniform id="positive.prior" lower="0" upper="Infinity"/>
+
+            <initial id="BDTree.t:Islam" spec="beast.evolution.tree.MultiRateTreeFromBDModel">
+                <stateChangeModel id="initModel.t:Islam" spec="beast.evolution.tree.StateChangeModel">
+                    <parameter id="initgamma.t:Islam" spec="parameter.RealParameter" name="gamma">0.05</parameter>
+                    <lambdas id="initlambdas.t:Islam" spec="parameter.ExtendableRealParameter">1.5</lambdas>
+                    <mus id="initmus.t:Islam" spec="parameter.ExtendableRealParameter">0.25</mus>
+                    <nstar id="initnstar.t:Islam" spec="parameter.IntegerParameter" lower="2">5</nstar>
+                </stateChangeModel>
+            </initial>
+
+<!--
+<run id="mcmc" spec="MCMC" chainLength="50000000" sampleFromPrior="false">
+-->
+<run id="mcmc" spec="beast.gss.NS" subChainLength="10000" chainLength="1000000" preBurnin="0" particleCount="$(points=10)" epsilon="1e-13">
+
+    <state id="state" spec="State" storeEvery="5000">
+        <stateNode id="Tree.t:Islam" spec="beast.evolution.tree.MultiRateTree">
+            <initial id="NewTree.t:Islam" spec="beast.evolution.tree.MultiRateTreeFromNewick" adjustTipHeights="false" isLabelledNewick="true" newick="(((01_Kaysani:101.42625548405476,(((05_KhorramDinan:213.27903408745,(12_Qarmatian:173.09195980284142,(13_Druze:899.0012288595369,((17_Hafizi:144.50185557263308,(24_Sulaymani:326.9959317697902,((27_Daudi:156.99842376462266,28_Hibtia:156.99842376462266):131.9907101955905,(29_Alia:128.99852516457668,30_Nagoshia:128.99852516457668):159.9906087956365):38.00679780957705):461.0020793841252):36.00461043893847,(18_Muhammadshahi:534.0015952833203,(20_Imamshahi:365.5489730320951,21_Qasimshahi:365.5489730320951):168.45262225122542):290.0010263095336):74.99860726668305):114.58717053171449):68.50808253191326):50.560315396959595,(06_Bajaliyya:322.9476024228293,((09_Alawi:860.8042736775312,(19_AhliHaqq:466.82192739520406,((22_Akhbari:224.77243316919862,23_Alevi:224.77243316919862):127.45436942955405,(32_Usuli:85.32625454368554,(33_Azali:53.00034712880097,34_Bahai:53.00034712880097):32.32590741488457):266.90054805506713):114.59512479645139):393.98234628232717):170.6411610022169,10_Ishaqi:362.46113061831625):60.2060510959293):41.00531154444684):47.83936172035055,(11_Nasiri:660.3718706533169,(14_Husayni:199.9539994787167,(15_Mutarrifi:164.53957256372541,16_Qasimi:832.1697799719893):36.451387924313394):161.58171733921267):150.29327380495943):54.99863378779696):25.503424684885204,(02_Azraqi:15.00242966194196,(03_Ibadi:1200.2359107432358,04_Sufri:147.23085405050392):33.76797741409973):26.994329355821492):12.563785263315822,((((07_Maliki:611.6997415630736,(40_Ansar:37.00371955122159,41_OtherShafii:37.00371955122159):574.696022011852):196.9823411448142,(31_Faraizi:57.31404205282115,((((35_AhliHadith:35.208788593834925,37_Barelwi:35.20878859383515):9.254968155250708,((36_Aligarh:35.301908218013295,38_Deobandi:35.301908218013295):5.699562858216041,39_Jadid:41.001471076229336):3.462285672856524):0.7400154815670703,(44_Lahore:3.998579762998588,45_Qadiani:3.998579762998588):41.20519246765434):0.9407393778874393,(42_OtherHanafi:16.871242752763465,43_Salafi:16.871242752763465):29.273268855776678):51.177196676207586):711.3603744231399):120.66630570949621,(25_OtherHanbali:175.977485409672,26_Wahhabi:175.977485409672):753.3709030077121):139.35967182494096,08_Zahiri:599.5589021559088):204.8539425341478):0.0"/>
+            <taxonset id="TaxonSet.Islam" spec="TaxonSet">
+                <alignment idref="Islam"/>
+            </taxonset>
+        </stateNode>
+        <stateNode id="lambdas.t:Islam" spec="parameter.ExtendableRealParameter" lower="0.0">1.5</stateNode>
+        <stateNode id="mus.t:Islam" spec="parameter.ExtendableRealParameter" lower="0.0">0.25</stateNode>
+        <parameter id="gamma.t:Islam" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.005</parameter>
+        <stateNode id="nstar.t:Islam" spec="parameter.IntegerParameter" lower="2">5</stateNode>
+    </state>
+
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+
+            <prior id="gammaPrior.t:Islam" name="distribution" x="@gamma.t:Islam">
+                <LogNormal id="LogNormalDistributionModel.2" name="distr">
+                    <parameter id="RealParameter.5" spec="parameter.RealParameter" estimate="false" name="M">-8.0</parameter>
+                    <parameter id="RealParameter.6" spec="parameter.RealParameter" estimate="false" lower="0.0" name="S" upper="5.0">1.0</parameter>
+                </LogNormal>
+            </prior>
+
+            <prior id="lambdasPrior.t:Islam" name="distribution" x="@lambdas.t:Islam">
+                <LogNormal id="LogNormalDistributionModel.l0" name="distr">
+                    <parameter id="RealParameter.1" spec="parameter.RealParameter" estimate="false" name="M">-2.0</parameter>
+                    <parameter id="RealParameter.2" spec="parameter.RealParameter" estimate="false" lower="0.0" name="S" upper="5.0">2.0</parameter>
+                </LogNormal>
+            </prior>
+
+            <prior id="musPrior.t:Islam" name="distribution" x="@mus.t:Islam">
+                <LogNormal id="LogNormalDistributionModel.m0" name="distr">
+                    <parameter id="RealParameter.3" spec="parameter.RealParameter" estimate="false" name="M">0.0</parameter>
+                    <parameter id="RealParameter.4" spec="parameter.RealParameter" estimate="false" lower="0.0" name="S" upper="5.0">2.0</parameter>
+                </LogNormal>
+            </prior>
+
+            <prior id="nstarPrior.t:Islam" name="distribution" x="@nstar.t:Islam">
+                <distr id="Poisson.0" spec="beast.math.distributions.Poisson">
+                    <parameter id="RealParameter.7" spec="parameter.RealParameter" estimate="false" name="lambda">2.0</parameter>
+                </distr>
+            </prior>
+
+            <distribution id="stdBDMRT.t:Islam" spec="multiratetree.distributions.StdBirthDeathDensity" multiRateTree="@Tree.t:Islam">
+                <stateChangeModel id="stdscModel.t:Islam" spec="beast.evolution.tree.StateChangeModel"
+                	gamma="@gamma.t:Islam" lambdas="@lambdas.t:Islam" mus="@mus.t:Islam" nstar="@nstar.t:Islam"
+                	isMuFixed="true"
+                	rho="0.8"
+                	sigma="0.5"/>
+            </distribution>
+
+           <prior id="rateCountPrior.t:Islam" name="distribution" x="@totalStateChanges.t:Islam">
+                <distr spec="beast.math.distributions.AlmostUniform" lower="$(lower=-0.5)" upper="$(upper=0.5)"/>
+            </prior>
+
+            <!-- no religion has an origin over 100kya -->
+            <!-- this is useful to keep trees reasonably aged when sampling from the prior -->
+			<distribution id="root.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset idref="t1274_4.65"/>
+                <Uniform name="distr" upper="100000"/>
+            </distribution>
+
+			<!-- tip prior to keep contemporary religions at age 0 (or very close to it) -->
+			<!-- this allows the NodeShiftRetype operator to do proposals for leaf nodes -->
+            <distribution id="contemporary.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="false" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="contemporary.leafs" spec="TaxonSet">
+		<taxon idref="03_Ibadi"/>
+		<taxon idref="07_Maliki"/>
+		<taxon idref="09_Alawi"/>
+		<taxon idref="13_Druze"/>
+		<taxon idref="16_Qasimi"/>
+		<taxon idref="18_Muhammadshahi"/>
+		<taxon idref="19_AhliHaqq"/>
+		<taxon idref="20_Imamshahi"/>
+		<taxon idref="21_Qasimshahi"/>
+		<taxon idref="22_Akhbari"/>
+		<taxon idref="23_Alevi"/>
+		<taxon idref="24_Sulaymani"/>
+		<taxon idref="25_OtherHanbali"/>
+		<taxon idref="26_Wahhabi"/>
+		<taxon idref="27_Daudi"/>
+		<taxon idref="28_Hibtia"/>
+		<taxon idref="29_Alia"/>
+		<taxon idref="30_Nagoshia"/>
+		<taxon idref="32_Usuli"/>
+		<taxon idref="33_Azali"/>
+		<taxon idref="34_Bahai"/>
+		<taxon idref="35_AhliHadith"/>
+		<taxon idref="36_Aligarh"/>
+		<taxon idref="37_Barelwi"/>
+		<taxon idref="38_Deobandi"/>
+		<taxon idref="39_Jadid"/>
+		<taxon idref="40_Ansar"/>
+		<taxon idref="41_OtherShafii"/>
+		<taxon idref="42_OtherHanafi"/>
+		<taxon idref="43_Salafi"/>
+		<taxon idref="44_Lahore"/>
+		<taxon idref="45_Qadiani"/>
+                </taxonset>
+                <Normal name="distr" mean="0" sigma="1e-2"/>
+            </distribution>
+
+
+            <distribution id="01_Kaysani.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="01_Kaysani.leaf" spec="TaxonSet">
+                    <taxon id="01_Kaysani" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.0" name="distr">
+                    <parameter id="param.1" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1132.0</parameter>
+                    <parameter id="param.2" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">13.98</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="02_Azraqi.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="02_Azraqi.leaf" spec="TaxonSet">
+                    <taxon id="02_Azraqi" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.01" name="distr">
+                    <parameter id="param.11" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1219.0</parameter>
+                    <parameter id="param.21" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="04_Sufri.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="04_Sufri.leaf" spec="TaxonSet">
+                    <taxon id="04_Sufri" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.02" name="distr">
+                    <parameter id="param.12" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1048.0</parameter>
+                    <parameter id="param.22" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="05_KhorramDinan.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="05_KhorramDinan.leaf" spec="TaxonSet">
+                    <taxon id="05_KhorramDinan" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.03" name="distr">
+                    <parameter id="param.13" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">868.0</parameter>
+                    <parameter id="param.23" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="06_Bajaliyya.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="06_Bajaliyya.leaf" spec="TaxonSet">
+                    <taxon id="06_Bajaliyya" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.04" name="distr">
+                    <parameter id="param.14" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">768.0</parameter>
+                    <parameter id="param.24" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="08_Zahiri.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="08_Zahiri.leaf" spec="TaxonSet">
+                    <taxon id="08_Zahiri" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.05" name="distr">
+                    <parameter id="param.15" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">468.0</parameter>
+                    <parameter id="param.25" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="10_Ishaqi.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="10_Ishaqi.leaf" spec="TaxonSet">
+                    <taxon id="10_Ishaqi" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.06" name="distr">
+                    <parameter id="param.16" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">668.0</parameter>
+                    <parameter id="param.26" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="11_Nasiri.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="11_Nasiri.leaf" spec="TaxonSet">
+                    <taxon id="11_Nasiri" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.07" name="distr">
+                    <parameter id="param.17" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">368.0</parameter>
+                    <parameter id="param.27" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="12_Qarmatian.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="12_Qarmatian.leaf" spec="TaxonSet">
+                    <taxon id="12_Qarmatian" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.08" name="distr">
+                    <parameter id="param.18" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">840.5</parameter>
+                    <parameter id="param.28" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.19</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="14_Husayni.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="14_Husayni.leaf" spec="TaxonSet">
+                    <taxon id="14_Husayni" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.09" name="distr">
+                    <parameter id="param.19" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">668.0</parameter>
+                    <parameter id="param.29" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="15_Mutarrifi.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="15_Mutarrifi.leaf" spec="TaxonSet">
+                    <taxon id="15_Mutarrifi" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.010" name="distr">
+                    <parameter id="param.110" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">668.0</parameter>
+                    <parameter id="param.210" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="17_Hafizi.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="17_Hafizi.leaf" spec="TaxonSet">
+                    <taxon id="17_Hafizi" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.011" name="distr">
+                    <parameter id="param.111" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">643.0</parameter>
+                    <parameter id="param.211" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">9.7</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="31_Faraizi.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:Islam">
+                <taxonset id="31_Faraizi.leaf" spec="TaxonSet">
+                    <taxon id="31_Faraizi" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.012" name="distr">
+                    <parameter id="param.112" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">39.5</parameter>
+                    <parameter id="param.212" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">8.35</parameter>
+                </Normal>
+            </distribution>
+
+        </distribution>
+
+        <distribution id="likelihood" spec="util.CompoundDistribution">
+
+            <!-- root prior -->
+            <distribution id="t1274_4.65.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1274_4.65" spec="TaxonSet">
+                    <taxon idref="01_Kaysani"/>
+                    <taxon idref="02_Azraqi"/>
+                    <taxon idref="03_Ibadi"/>
+                    <taxon idref="04_Sufri"/>
+                    <taxon idref="05_KhorramDinan"/>
+                    <taxon idref="06_Bajaliyya"/>
+                    <taxon idref="07_Maliki"/>
+                    <taxon idref="08_Zahiri"/>
+                    <taxon idref="09_Alawi"/>
+                    <taxon idref="10_Ishaqi"/>
+                    <taxon idref="11_Nasiri"/>
+                    <taxon idref="12_Qarmatian"/>
+                    <taxon idref="13_Druze"/>
+                    <taxon idref="14_Husayni"/>
+                    <taxon idref="15_Mutarrifi"/>
+                    <taxon idref="16_Qasimi"/>
+                    <taxon idref="17_Hafizi"/>
+                    <taxon idref="18_Muhammadshahi"/>
+                    <taxon idref="19_AhliHaqq"/>
+                    <taxon idref="20_Imamshahi"/>
+                    <taxon idref="21_Qasimshahi"/>
+                    <taxon idref="22_Akhbari"/>
+                    <taxon idref="23_Alevi"/>
+                    <taxon idref="24_Sulaymani"/>
+                    <taxon idref="25_OtherHanbali"/>
+                    <taxon idref="26_Wahhabi"/>
+                    <taxon idref="27_Daudi"/>
+                    <taxon idref="28_Hibtia"/>
+                    <taxon idref="29_Alia"/>
+                    <taxon idref="30_Nagoshia"/>
+                    <taxon idref="31_Faraizi"/>
+                    <taxon idref="32_Usuli"/>
+                    <taxon idref="33_Azali"/>
+                    <taxon idref="34_Bahai"/>
+                    <taxon idref="35_AhliHadith"/>
+                    <taxon idref="36_Aligarh"/>
+                    <taxon idref="37_Barelwi"/>
+                    <taxon idref="38_Deobandi"/>
+                    <taxon idref="39_Jadid"/>
+                    <taxon idref="40_Ansar"/>
+                    <taxon idref="41_OtherShafii"/>
+                    <taxon idref="42_OtherHanafi"/>
+                    <taxon idref="43_Salafi"/>
+                    <taxon idref="44_Lahore"/>
+                    <taxon idref="45_Qadiani"/>
+                </taxonset>
+                <Normal id="Normal.024" name="distr" mean="1274.0" sigma="4.65"/>
+            </distribution>
+
+            <distribution id="t1013.5_2.14.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1013.5_2.14" spec="TaxonSet">
+                    <taxon idref="12_Qarmatian"/>
+                    <taxon id="13_Druze" spec="Taxon"/>
+                    <taxon idref="17_Hafizi"/>
+                    <taxon id="18_Muhammadshahi" spec="Taxon"/>
+                    <taxon id="20_Imamshahi" spec="Taxon"/>
+                    <taxon id="21_Qasimshahi" spec="Taxon"/>
+                    <taxon id="24_Sulaymani" spec="Taxon"/>
+                    <taxon id="27_Daudi" spec="Taxon"/>
+                    <taxon id="28_Hibtia" spec="Taxon"/>
+                    <taxon id="29_Alia" spec="Taxon"/>
+                    <taxon id="30_Nagoshia" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.013" name="distr">
+                    <parameter id="param.113" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1013.5</parameter>
+                    <parameter id="param.213" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">2.14</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1031.5_4.85.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1031.5_4.85" spec="TaxonSet">
+                    <taxon id="09_Alawi" spec="Taxon"/>
+                    <taxon idref="10_Ishaqi"/>
+                    <taxon id="19_AhliHaqq" spec="Taxon"/>
+                    <taxon id="22_Akhbari" spec="Taxon"/>
+                    <taxon id="23_Alevi" spec="Taxon"/>
+                    <taxon id="32_Usuli" spec="Taxon"/>
+                    <taxon id="33_Azali" spec="Taxon"/>
+                    <taxon id="34_Bahai" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.014" name="distr">
+                    <parameter id="param.114" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1031.5</parameter>
+                    <parameter id="param.214" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">4.85</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1031_10.48.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1031_10.48" spec="TaxonSet">
+                    <taxon idref="11_Nasiri"/>
+                    <taxon idref="14_Husayni"/>
+                    <taxon idref="15_Mutarrifi"/>
+                    <taxon id="16_Qasimi" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.015" name="distr">
+                    <parameter id="param.115" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1031.0</parameter>
+                    <parameter id="param.215" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">10.48</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1074_30.67.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1074_30.67" spec="TaxonSet">
+                    <taxon id="07_Maliki" spec="Taxon"/>
+                    <taxon idref="08_Zahiri"/>
+                    <taxon id="25_OtherHanbali" spec="Taxon"/>
+                    <taxon id="26_Wahhabi" spec="Taxon"/>
+                    <taxon idref="31_Faraizi"/>
+                    <taxon id="35_AhliHadith" spec="Taxon"/>
+                    <taxon id="36_Aligarh" spec="Taxon"/>
+                    <taxon id="37_Barelwi" spec="Taxon"/>
+                    <taxon id="38_Deobandi" spec="Taxon"/>
+                    <taxon id="39_Jadid" spec="Taxon"/>
+                    <taxon id="40_Ansar" spec="Taxon"/>
+                    <taxon id="41_OtherShafii" spec="Taxon"/>
+                    <taxon id="42_OtherHanafi" spec="Taxon"/>
+                    <taxon id="43_Salafi" spec="Taxon"/>
+                    <taxon id="44_Lahore" spec="Taxon"/>
+                    <taxon id="45_Qadiani" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.016" name="distr">
+                    <parameter id="param.116" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1074.0</parameter>
+                    <parameter id="param.216" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">30.67</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1093.5_9.90.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1093.5_9.90" spec="TaxonSet">
+                    <taxon idref="06_Bajaliyya"/>
+                    <taxon idref="09_Alawi"/>
+                    <taxon idref="10_Ishaqi"/>
+                    <taxon idref="19_AhliHaqq"/>
+                    <taxon idref="22_Akhbari"/>
+                    <taxon idref="23_Alevi"/>
+                    <taxon idref="32_Usuli"/>
+                    <taxon idref="33_Azali"/>
+                    <taxon idref="34_Bahai"/>
+                </taxonset>
+                <Normal id="Normal.017" name="distr">
+                    <parameter id="param.117" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1093.5</parameter>
+                    <parameter id="param.217" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">9.9</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1132.5_11.84.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1132.5_11.84" spec="TaxonSet">
+                    <taxon idref="05_KhorramDinan"/>
+                    <taxon idref="06_Bajaliyya"/>
+                    <taxon idref="09_Alawi"/>
+                    <taxon idref="10_Ishaqi"/>
+                    <taxon idref="12_Qarmatian"/>
+                    <taxon idref="13_Druze"/>
+                    <taxon idref="17_Hafizi"/>
+                    <taxon idref="18_Muhammadshahi"/>
+                    <taxon idref="19_AhliHaqq"/>
+                    <taxon idref="20_Imamshahi"/>
+                    <taxon idref="21_Qasimshahi"/>
+                    <taxon idref="22_Akhbari"/>
+                    <taxon idref="23_Alevi"/>
+                    <taxon idref="24_Sulaymani"/>
+                    <taxon idref="27_Daudi"/>
+                    <taxon idref="28_Hibtia"/>
+                    <taxon idref="29_Alia"/>
+                    <taxon idref="30_Nagoshia"/>
+                    <taxon idref="32_Usuli"/>
+                    <taxon idref="33_Azali"/>
+                    <taxon idref="34_Bahai"/>
+                </taxonset>
+                <Normal id="Normal.018" name="distr">
+                    <parameter id="param.118" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1132.5</parameter>
+                    <parameter id="param.218" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">11.84</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1180.5_0.97.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1180.5_0.97" spec="TaxonSet">
+                    <taxon idref="05_KhorramDinan"/>
+                    <taxon idref="06_Bajaliyya"/>
+                    <taxon idref="09_Alawi"/>
+                    <taxon idref="10_Ishaqi"/>
+                    <taxon idref="11_Nasiri"/>
+                    <taxon idref="12_Qarmatian"/>
+                    <taxon idref="13_Druze"/>
+                    <taxon idref="14_Husayni"/>
+                    <taxon idref="15_Mutarrifi"/>
+                    <taxon idref="16_Qasimi"/>
+                    <taxon idref="17_Hafizi"/>
+                    <taxon idref="18_Muhammadshahi"/>
+                    <taxon idref="19_AhliHaqq"/>
+                    <taxon idref="20_Imamshahi"/>
+                    <taxon idref="21_Qasimshahi"/>
+                    <taxon idref="22_Akhbari"/>
+                    <taxon idref="23_Alevi"/>
+                    <taxon idref="24_Sulaymani"/>
+                    <taxon idref="27_Daudi"/>
+                    <taxon idref="28_Hibtia"/>
+                    <taxon idref="29_Alia"/>
+                    <taxon idref="30_Nagoshia"/>
+                    <taxon idref="32_Usuli"/>
+                    <taxon idref="33_Azali"/>
+                    <taxon idref="34_Bahai"/>
+                </taxonset>
+                <Normal id="Normal.019" name="distr">
+                    <parameter id="param.119" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1180.5</parameter>
+                    <parameter id="param.219" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.97</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1200.5_8.73.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1200.5_8.73" spec="TaxonSet">
+                    <taxon id="03_Ibadi" spec="Taxon"/>
+                    <taxon idref="04_Sufri"/>
+                </taxonset>
+                <Normal id="Normal.020" name="distr">
+                    <parameter id="param.120" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1200.5</parameter>
+                    <parameter id="param.220" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">8.73</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1234_0.10.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1234_0.10" spec="TaxonSet">
+                    <taxon idref="02_Azraqi"/>
+                    <taxon idref="03_Ibadi"/>
+                    <taxon idref="04_Sufri"/>
+                </taxonset>
+                <Normal id="Normal.021" name="distr">
+                    <parameter id="param.121" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1234.0</parameter>
+                    <parameter id="param.221" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1235.5_0.97.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1235.5_0.97" spec="TaxonSet">
+                    <taxon idref="01_Kaysani"/>
+                    <taxon idref="05_KhorramDinan"/>
+                    <taxon idref="06_Bajaliyya"/>
+                    <taxon idref="09_Alawi"/>
+                    <taxon idref="10_Ishaqi"/>
+                    <taxon idref="11_Nasiri"/>
+                    <taxon idref="12_Qarmatian"/>
+                    <taxon idref="13_Druze"/>
+                    <taxon idref="14_Husayni"/>
+                    <taxon idref="15_Mutarrifi"/>
+                    <taxon idref="16_Qasimi"/>
+                    <taxon idref="17_Hafizi"/>
+                    <taxon idref="18_Muhammadshahi"/>
+                    <taxon idref="19_AhliHaqq"/>
+                    <taxon idref="20_Imamshahi"/>
+                    <taxon idref="21_Qasimshahi"/>
+                    <taxon idref="22_Akhbari"/>
+                    <taxon idref="23_Alevi"/>
+                    <taxon idref="24_Sulaymani"/>
+                    <taxon idref="27_Daudi"/>
+                    <taxon idref="28_Hibtia"/>
+                    <taxon idref="29_Alia"/>
+                    <taxon idref="30_Nagoshia"/>
+                    <taxon idref="32_Usuli"/>
+                    <taxon idref="33_Azali"/>
+                    <taxon idref="34_Bahai"/>
+                </taxonset>
+                <Normal id="Normal.022" name="distr">
+                    <parameter id="param.122" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1235.5</parameter>
+                    <parameter id="param.222" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.97</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1261_0.10.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t1261_0.10" spec="TaxonSet">
+                    <taxon idref="01_Kaysani"/>
+                    <taxon idref="02_Azraqi"/>
+                    <taxon idref="03_Ibadi"/>
+                    <taxon idref="04_Sufri"/>
+                    <taxon idref="05_KhorramDinan"/>
+                    <taxon idref="06_Bajaliyya"/>
+                    <taxon idref="09_Alawi"/>
+                    <taxon idref="10_Ishaqi"/>
+                    <taxon idref="11_Nasiri"/>
+                    <taxon idref="12_Qarmatian"/>
+                    <taxon idref="13_Druze"/>
+                    <taxon idref="14_Husayni"/>
+                    <taxon idref="15_Mutarrifi"/>
+                    <taxon idref="16_Qasimi"/>
+                    <taxon idref="17_Hafizi"/>
+                    <taxon idref="18_Muhammadshahi"/>
+                    <taxon idref="19_AhliHaqq"/>
+                    <taxon idref="20_Imamshahi"/>
+                    <taxon idref="21_Qasimshahi"/>
+                    <taxon idref="22_Akhbari"/>
+                    <taxon idref="23_Alevi"/>
+                    <taxon idref="24_Sulaymani"/>
+                    <taxon idref="27_Daudi"/>
+                    <taxon idref="28_Hibtia"/>
+                    <taxon idref="29_Alia"/>
+                    <taxon idref="30_Nagoshia"/>
+                    <taxon idref="32_Usuli"/>
+                    <taxon idref="33_Azali"/>
+                    <taxon idref="34_Bahai"/>
+                </taxonset>
+                <Normal id="Normal.023" name="distr">
+                    <parameter id="param.123" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1261.0</parameter>
+                    <parameter id="param.223" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+           <distribution id="t129_0.10.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t129_0.10" spec="TaxonSet">
+                    <taxon idref="29_Alia"/>
+                    <taxon idref="30_Nagoshia"/>
+                </taxonset>
+                <Normal id="Normal.025" name="distr">
+                    <parameter id="param.125" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">129.0</parameter>
+                    <parameter id="param.225" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t157_0.10.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t157_0.10" spec="TaxonSet">
+                    <taxon idref="27_Daudi"/>
+                    <taxon idref="28_Hibtia"/>
+                </taxonset>
+                <Normal id="Normal.026" name="distr">
+                    <parameter id="param.126" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">157.0</parameter>
+                    <parameter id="param.226" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t176_0.78.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t176_0.78" spec="TaxonSet">
+                    <taxon idref="25_OtherHanbali"/>
+                    <taxon idref="26_Wahhabi"/>
+                </taxonset>
+                <Normal id="Normal.027" name="distr">
+                    <parameter id="param.127" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">176.0</parameter>
+                    <parameter id="param.227" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.78</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t17_1.55.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t17_1.55" spec="TaxonSet">
+                    <taxon idref="42_OtherHanafi"/>
+                    <taxon idref="43_Salafi"/>
+                </taxonset>
+                <Normal id="Normal.028" name="distr">
+                    <parameter id="param.128" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">17.0</parameter>
+                    <parameter id="param.228" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">1.55</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t289_3.11.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t289_3.11" spec="TaxonSet">
+                    <taxon idref="27_Daudi"/>
+                    <taxon idref="28_Hibtia"/>
+                    <taxon idref="29_Alia"/>
+                    <taxon idref="30_Nagoshia"/>
+                </taxonset>
+                <Normal id="Normal.029" name="distr">
+                    <parameter id="param.129" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">289.0</parameter>
+                    <parameter id="param.229" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">3.11</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t327_0.10.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t327_0.10" spec="TaxonSet">
+                    <taxon idref="24_Sulaymani"/>
+                    <taxon idref="27_Daudi"/>
+                    <taxon idref="28_Hibtia"/>
+                    <taxon idref="29_Alia"/>
+                    <taxon idref="30_Nagoshia"/>
+                </taxonset>
+                <Normal id="Normal.030" name="distr">
+                    <parameter id="param.130" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">327.0</parameter>
+                    <parameter id="param.230" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t353_24.84.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t353_24.84" spec="TaxonSet">
+                    <taxon idref="22_Akhbari"/>
+                    <taxon idref="23_Alevi"/>
+                    <taxon idref="32_Usuli"/>
+                    <taxon idref="33_Azali"/>
+                    <taxon idref="34_Bahai"/>
+                </taxonset>
+                <Normal id="Normal.031" name="distr">
+                    <parameter id="param.131" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">353.0</parameter>
+                    <parameter id="param.231" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">24.84</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t368_19.41.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t368_19.41" spec="TaxonSet">
+                    <taxon idref="20_Imamshahi"/>
+                    <taxon idref="21_Qasimshahi"/>
+                </taxonset>
+                <Normal id="Normal.032" name="distr">
+                    <parameter id="param.132" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">368.0</parameter>
+                    <parameter id="param.232" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t37_0.10.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t37_0.10" spec="TaxonSet">
+                    <taxon idref="40_Ansar"/>
+                    <taxon idref="41_OtherShafii"/>
+                </taxonset>
+                <Normal id="Normal.033" name="distr">
+                    <parameter id="param.133" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">37.0</parameter>
+                    <parameter id="param.233" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t40.5_7.96.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t40.5_7.96" spec="TaxonSet">
+                    <taxon idref="35_AhliHadith"/>
+                    <taxon idref="36_Aligarh"/>
+                    <taxon idref="37_Barelwi"/>
+                    <taxon idref="38_Deobandi"/>
+                    <taxon idref="39_Jadid"/>
+                    <taxon idref="42_OtherHanafi"/>
+                    <taxon idref="43_Salafi"/>
+                    <taxon idref="44_Lahore"/>
+                    <taxon idref="45_Qadiani"/>
+                </taxonset>
+                <Normal id="Normal.034" name="distr">
+                    <parameter id="param.134" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">40.5</parameter>
+                    <parameter id="param.234" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">7.96</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t468_19.41.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t468_19.41" spec="TaxonSet">
+                    <taxon idref="19_AhliHaqq"/>
+                    <taxon idref="22_Akhbari"/>
+                    <taxon idref="23_Alevi"/>
+                    <taxon idref="32_Usuli"/>
+                    <taxon idref="33_Azali"/>
+                    <taxon idref="34_Bahai"/>
+                </taxonset>
+                <Normal id="Normal.035" name="distr">
+                    <parameter id="param.135" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">468.0</parameter>
+                    <parameter id="param.235" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t4_0.10.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t4_0.10" spec="TaxonSet">
+                    <taxon idref="44_Lahore"/>
+                    <taxon idref="45_Qadiani"/>
+                </taxonset>
+                <Normal id="Normal.036" name="distr">
+                    <parameter id="param.136" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">4.0</parameter>
+                    <parameter id="param.236" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t53_0.78.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t53_0.78" spec="TaxonSet">
+                    <taxon idref="33_Azali"/>
+                    <taxon idref="34_Bahai"/>
+                </taxonset>
+                <Normal id="Normal.037" name="distr">
+                    <parameter id="param.137" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">53.0</parameter>
+                    <parameter id="param.237" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.78</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t540_47.36.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t540_47.36" spec="TaxonSet">
+                    <taxon idref="18_Muhammadshahi"/>
+                    <taxon idref="20_Imamshahi"/>
+                    <taxon idref="21_Qasimshahi"/>
+                </taxonset>
+                <Normal id="Normal.038" name="distr">
+                    <parameter id="param.138" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">540.0</parameter>
+                    <parameter id="param.238" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">47.36</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t788_0.10.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t788_0.10" spec="TaxonSet">
+                    <taxon idref="17_Hafizi"/>
+                    <taxon idref="24_Sulaymani"/>
+                    <taxon idref="27_Daudi"/>
+                    <taxon idref="28_Hibtia"/>
+                    <taxon idref="29_Alia"/>
+                    <taxon idref="30_Nagoshia"/>
+                </taxonset>
+                <Normal id="Normal.039" name="distr">
+                    <parameter id="param.139" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">788.0</parameter>
+                    <parameter id="param.239" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t824_0.10.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t824_0.10" spec="TaxonSet">
+                    <taxon idref="17_Hafizi"/>
+                    <taxon idref="18_Muhammadshahi"/>
+                    <taxon idref="20_Imamshahi"/>
+                    <taxon idref="21_Qasimshahi"/>
+                    <taxon idref="24_Sulaymani"/>
+                    <taxon idref="27_Daudi"/>
+                    <taxon idref="28_Hibtia"/>
+                    <taxon idref="29_Alia"/>
+                    <taxon idref="30_Nagoshia"/>
+                </taxonset>
+                <Normal id="Normal.040" name="distr">
+                    <parameter id="param.140" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">824.0</parameter>
+                    <parameter id="param.240" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t85.5_4.08.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t85.5_4.08" spec="TaxonSet">
+                    <taxon idref="32_Usuli"/>
+                    <taxon idref="33_Azali"/>
+                    <taxon idref="34_Bahai"/>
+                </taxonset>
+                <Normal id="Normal.041" name="distr">
+                    <parameter id="param.141" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">85.5</parameter>
+                    <parameter id="param.241" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">4.08</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t868_19.41.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t868_19.41" spec="TaxonSet">
+                    <taxon idref="14_Husayni"/>
+                    <taxon idref="15_Mutarrifi"/>
+                    <taxon idref="16_Qasimi"/>
+                </taxonset>
+                <Normal id="Normal.042" name="distr">
+                    <parameter id="param.142" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">868.0</parameter>
+                    <parameter id="param.242" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t899_0.78.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t899_0.78" spec="TaxonSet">
+                    <taxon idref="13_Druze"/>
+                    <taxon idref="17_Hafizi"/>
+                    <taxon idref="18_Muhammadshahi"/>
+                    <taxon idref="20_Imamshahi"/>
+                    <taxon idref="21_Qasimshahi"/>
+                    <taxon idref="24_Sulaymani"/>
+                    <taxon idref="27_Daudi"/>
+                    <taxon idref="28_Hibtia"/>
+                    <taxon idref="29_Alia"/>
+                    <taxon idref="30_Nagoshia"/>
+                </taxonset>
+                <Normal id="Normal.043" name="distr">
+                    <parameter id="param.143" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">899.0</parameter>
+                    <parameter id="param.243" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.78</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t98_7.76.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:Islam">
+                <taxonset id="t98_7.76" spec="TaxonSet">
+                    <taxon idref="31_Faraizi"/>
+                    <taxon idref="35_AhliHadith"/>
+                    <taxon idref="36_Aligarh"/>
+                    <taxon idref="37_Barelwi"/>
+                    <taxon idref="38_Deobandi"/>
+                    <taxon idref="39_Jadid"/>
+                    <taxon idref="42_OtherHanafi"/>
+                    <taxon idref="43_Salafi"/>
+                    <taxon idref="44_Lahore"/>
+                    <taxon idref="45_Qadiani"/>
+                </taxonset>
+                <Normal id="Normal.044" name="distr">
+                    <parameter id="param.144" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">98.0</parameter>
+                    <parameter id="param.244" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">7.76</parameter>
+                </Normal>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="lambdasScaler.t:Islam" spec="ScaleOperator" parameter="@lambdas.t:Islam" scaleFactor="0.8" weight="1.0"/>
+
+    <operator id="musScaler.t:Islam" spec="ScaleOperator" parameter="@mus.t:Islam" scaleFactor="0.8" weight="1.0"/>
+
+    <operator id="gammaScaler.t:Islam" spec="ScaleOperator" parameter="@gamma.t:Islam" scaleFactor="0.8" weight="1.0"/>
+
+    <operator id="nstarScaler.t:Islam" spec="IntRandomWalkOperator" parameter="@nstar.t:Islam" weight="1.0" windowSize="2"/>
+
+
+
+    <operator id="stdSTX.t:Islam" spec="multiratetree.operators.MRTSubtreeExchange" multiRateTree="@Tree.t:Islam" stateChangeModel="@stdscModel.t:Islam" weight="10.0"/>
+
+    <operator id="stdTWB.t:Islam" spec="multiratetree.operators.MRTWilsonBalding" alpha="0.2" multiRateTree="@Tree.t:Islam" stateChangeModel="@stdscModel.t:Islam" weight="10.0"/>
+    <operator id="stdNR.t:Islam" spec="multiratetree.operators.NodeRetype" multiRateTree="@Tree.t:Islam" stateChangeModel="@stdscModel.t:Islam" weight="10.0"/>
+
+    <operator id="stdNSR1.t:Islam" spec="multiratetree.operators.NodeShiftRetype" multiRateTree="@Tree.t:Islam" rootOnly="true" stateChangeModel="@stdscModel.t:Islam" weight="10.0"/>
+
+<!--
+    <operator id="stdNSR2.t:Islam" spec="multiratetree.operators.NodeShiftRetype" multiRateTree="@Tree.t:Islam" noRoot="true" noLeaf="true" stateChangeModel="@stdscModel.t:Islam" weight="10.0"/>
+-->
+    <operator id="stdNSR2.t:Islam" spec="multiratetree.operators.NodeShiftRetype" multiRateTree="@Tree.t:Islam" noRoot="true" stateChangeModel="@stdscModel.t:Islam" weight="10.0"/>
+
+    <operator id="stdMTU.t:Islam" spec="multiratetree.operators.MultiRateTreeUniform" includeRoot="true" multiRateTree="@Tree.t:Islam" stateChangeModel="@stdscModel.t:Islam" weight="10.0"/>
+
+    <operator id="stdMTTS.t:Islam" spec="multiratetree.operators.MultiRateTreeScale" multiRateTree="@Tree.t:Islam" scaleFactor="0.98" stateChangeModel="@stdscModel.t:Islam" useOldTreeScaler="true" weight="10.0"/>
+
+    <operator id="stdAddRemoveStates.t:Islam" spec="multiratetree.operators.AddRemoveColourWPropagation" lambdaDistribution="@LogNormalDistributionModel.l0" muDistribution="@LogNormalDistributionModel.m0" multiRateTree="@Tree.t:Islam" stateChangeModel="@stdscModel.t:Islam" weight="20.0"/>
+
+    <operator id="stdMoveShifts.t:Islam" spec="multiratetree.operators.MoveColourChange" multiRateTree="@Tree.t:Islam" stateChangeModel="@stdscModel.t:Islam" weight="10.0"/>
+
+    <operator id="stdChangeColours.t:Islam" spec="multiratetree.operators.AddRemoveConnectedWPropagation" multiRateTree="@Tree.t:Islam" stateChangeModel="@stdscModel.t:Islam" weight="20.0"/>
+
+    <operator id="stdMTTUpDown.t:Islam" spec="multiratetree.operators.MultiRateTreeScale" multiRateTree="@Tree.t:Islam" scaleFactor="0.98" stateChangeModel="@stdscModel.t:Islam" useOldTreeScaler="true" weight="10.0">
+        <parameterInverse idref="lambdas.t:Islam"/>
+        <parameterInverse idref="mus.t:Islam"/>
+        <parameterInverse idref="gamma.t:Islam"/>
+    </operator>
+
+
+    <operator id="TipDatesRandomWalker.01_Kaysani.leaf" spec="TipDatesRandomWalker" taxonset="@01_Kaysani.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.02_Azraqi.leaf" spec="TipDatesRandomWalker" taxonset="@02_Azraqi.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.04_Sufri.leaf" spec="TipDatesRandomWalker" taxonset="@04_Sufri.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.05_KhorramDinan.leaf" spec="TipDatesRandomWalker" taxonset="@05_KhorramDinan.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.06_Bajaliyya.leaf" spec="TipDatesRandomWalker" taxonset="@06_Bajaliyya.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.08_Zahiri.leaf" spec="TipDatesRandomWalker" taxonset="@08_Zahiri.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.10_Ishaqi.leaf" spec="TipDatesRandomWalker" taxonset="@10_Ishaqi.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.11_Nasiri.leaf" spec="TipDatesRandomWalker" taxonset="@11_Nasiri.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.12_Qarmatian.leaf" spec="TipDatesRandomWalker" taxonset="@12_Qarmatian.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.14_Husayni.leaf" spec="TipDatesRandomWalker" taxonset="@14_Husayni.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.15_Mutarrifi.leaf" spec="TipDatesRandomWalker" taxonset="@15_Mutarrifi.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.17_Hafizi.leaf" spec="TipDatesRandomWalker" taxonset="@17_Hafizi.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.31_Faraizi.leaf" spec="TipDatesRandomWalker" taxonset="@31_Faraizi.leaf" tree="@Tree.t:Islam" weight="1.0" windowSize="1.0"/>
+
+    <logger id="tracelog" spec="Logger" fileName="$(filebase).log" logEvery="5000">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log id="treeHeight.t:Islam" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:Islam"/>
+        <log id="totalStateChanges.t:Islam" spec="multiratetree.util.StateChangesCountLogger" multiRateTree="@Tree.t:Islam"/>
+        <!-- variable dimension, not suitable for tracelog
+        <log idref="lambdas.t:Islam"/>
+        <log idref="mus.t:Islam"/>
+        -->
+        <log idref="gamma.t:Islam"/>
+        <log idref="nstar.t:Islam"/>
+    </logger>
+
+    <logger id="screenlog" spec="Logger" logEvery="5000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="totalStateChanges.t:Islam"/>
+        <log idref="gamma.t:Islam"/>
+        <log idref="nstar.t:Islam"/>
+    </logger>
+
+    <logger id="treelog.t:Islam" spec="Logger" fileName="$(filebase).Islam.trees" logEvery="50000" mode="tree">
+        <log idref="Tree.t:Islam"/>
+    </logger>
+
+    <logger id="stdratestreelog.t:Islam" spec="Logger" fileName="$(filebase).Islam.rates.trees" logEvery="50000" mode="tree">
+        <log id="TreeWithParameterValuesLogger.0" spec="multiratetree.util.TreeWithParameterValuesLogger" logChangeNodes="false" stateChangeModel="@stdscModel.t:Islam" tree="@Tree.t:Islam"/>
+    </logger>
+
+    <logger id="stdStateslog.t:Islam" spec="Logger" fileName="$(filebase).Islam.states.log" logEvery="50000">
+        <log id="StateChangeModelLogger.0" spec="multiratetree.util.StateChangeModelLogger" stateChangeModel="@stdscModel.t:Islam"/>
+    </logger>
+
+    <logger id="stdrateslog.t:Islam" spec="Logger" fileName="$(filebase).Islam.rates.log" logEvery="50000">
+        <log id="TipRatesLogger.0" spec="multiratetree.util.TipRatesLogger" multiRateTree="@Tree.t:Islam" stateChangeModel="@stdscModel.t:Islam"/>
+    </logger>
+
+</run>
+
+</beast>

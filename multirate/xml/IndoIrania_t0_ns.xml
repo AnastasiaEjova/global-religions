@@ -1,0 +1,1910 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='MSBDtemplate' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+
+
+    <data
+id="IndoIranian"
+spec="Alignment"
+name="alignment">
+                    <sequence id="seq_01_Ajivika" spec="Sequence" taxon="01_Ajivika" totalcount="4" value="?"/>
+                    <sequence id="seq_02_Vaikhanasa" spec="Sequence" taxon="02_Vaikhanasa" totalcount="4" value="?"/>
+                    <sequence id="seq_03_Gokulika" spec="Sequence" taxon="03_Gokulika" totalcount="4" value="?"/>
+                    <sequence id="seq_04_Lokottaravada" spec="Sequence" taxon="04_Lokottaravada" totalcount="4" value="?"/>
+                    <sequence id="seq_05_Kasyapiya" spec="Sequence" taxon="05_Kasyapiya" totalcount="4" value="?"/>
+                    <sequence id="seq_06_Mahisasaka" spec="Sequence" taxon="06_Mahisasaka" totalcount="4" value="?"/>
+                    <sequence id="seq_07_Mahasamghika" spec="Sequence" taxon="07_Mahasamghika" totalcount="4" value="?"/>
+                    <sequence id="seq_08_Sammatiya" spec="Sequence" taxon="08_Sammatiya" totalcount="4" value="?"/>
+                    <sequence id="seq_09_Vatsiputriya" spec="Sequence" taxon="09_Vatsiputriya" totalcount="4" value="?"/>
+                    <sequence id="seq_10_Aparasaila" spec="Sequence" taxon="10_Aparasaila" totalcount="4" value="?"/>
+                    <sequence id="seq_11_Purvasaila" spec="Sequence" taxon="11_Purvasaila" totalcount="4" value="?"/>
+                    <sequence id="seq_12_Rajagirika" spec="Sequence" taxon="12_Rajagirika" totalcount="4" value="?"/>
+                    <sequence id="seq_13_Siddharthika" spec="Sequence" taxon="13_Siddharthika" totalcount="4" value="?"/>
+                    <sequence id="seq_14_Yapaniya" spec="Sequence" taxon="14_Yapaniya" totalcount="4" value="?"/>
+                    <sequence id="seq_15_Saura" spec="Sequence" taxon="15_Saura" totalcount="4" value="?"/>
+                    <sequence id="seq_16_Abhayagiri" spec="Sequence" taxon="16_Abhayagiri" totalcount="4" value="?"/>
+                    <sequence id="seq_17_Jetavaniya" spec="Sequence" taxon="17_Jetavaniya" totalcount="4" value="?"/>
+                    <sequence id="seq_18_Mazdakite" spec="Sequence" taxon="18_Mazdakite" totalcount="4" value="?"/>
+                    <sequence id="seq_19_Kyo" spec="Sequence" taxon="19_Kyo" totalcount="4" value="?"/>
+                    <sequence id="seq_20_Sanjiejiao" spec="Sequence" taxon="20_Sanjiejiao" totalcount="4" value="?"/>
+                    <sequence id="seq_21_NorthernChan" spec="Sequence" taxon="21_NorthernChan" totalcount="4" value="?"/>
+                    <sequence id="seq_22_Hosso" spec="Sequence" taxon="22_Hosso" totalcount="4" value="?"/>
+                    <sequence id="seq_23_Kegon" spec="Sequence" taxon="23_Kegon" totalcount="4" value="?"/>
+                    <sequence id="seq_24_Ritsu" spec="Sequence" taxon="24_Ritsu" totalcount="4" value="?"/>
+                    <sequence id="seq_25_Siddhanta" spec="Sequence" taxon="25_Siddhanta" totalcount="4" value="?"/>
+                    <sequence id="seq_26_Soto" spec="Sequence" taxon="26_Soto" totalcount="4" value="?"/>
+                    <sequence id="seq_27_Pasupata" spec="Sequence" taxon="27_Pasupata" totalcount="4" value="?"/>
+                    <sequence id="seq_28_Sarvastivada" spec="Sequence" taxon="28_Sarvastivada" totalcount="4" value="?"/>
+                    <sequence id="seq_29_Aghori" spec="Sequence" taxon="29_Aghori" totalcount="4" value="?"/>
+                    <sequence id="seq_30_Krama" spec="Sequence" taxon="30_Krama" totalcount="4" value="?"/>
+                    <sequence id="seq_31_Nath" spec="Sequence" taxon="31_Nath" totalcount="4" value="?"/>
+                    <sequence id="seq_32_Srividya" spec="Sequence" taxon="32_Srividya" totalcount="4" value="?"/>
+                    <sequence id="seq_33_Trika" spec="Sequence" taxon="33_Trika" totalcount="4" value="?"/>
+                    <sequence id="seq_34_Tiantai" spec="Sequence" taxon="34_Tiantai" totalcount="4" value="?"/>
+                    <sequence id="seq_35_WhiteLotus" spec="Sequence" taxon="35_WhiteLotus" totalcount="4" value="?"/>
+                    <sequence id="seq_36_Nyingmapa" spec="Sequence" taxon="36_Nyingmapa" totalcount="4" value="?"/>
+                    <sequence id="seq_37_Sakyapa" spec="Sequence" taxon="37_Sakyapa" totalcount="4" value="?"/>
+                    <sequence id="seq_38_Kagyupa" spec="Sequence" taxon="38_Kagyupa" totalcount="4" value="?"/>
+                    <sequence id="seq_39_Shingon" spec="Sequence" taxon="39_Shingon" totalcount="4" value="?"/>
+                    <sequence id="seq_40_Tachikawaryu" spec="Sequence" taxon="40_Tachikawaryu" totalcount="4" value="?"/>
+                    <sequence id="seq_41_Kalamukha" spec="Sequence" taxon="41_Kalamukha" totalcount="4" value="?"/>
+                    <sequence id="seq_42_Virasaiva" spec="Sequence" taxon="42_Virasaiva" totalcount="4" value="?"/>
+                    <sequence id="seq_43_Chorakuji" spec="Sequence" taxon="43_Chorakuji" totalcount="4" value="?"/>
+                    <sequence id="seq_44_Mahanubhava" spec="Sequence" taxon="44_Mahanubhava" totalcount="4" value="?"/>
+                    <sequence id="seq_45_Gaudiya" spec="Sequence" taxon="45_Gaudiya" totalcount="4" value="?"/>
+                    <sequence id="seq_46_Mahdva" spec="Sequence" taxon="46_Mahdva" totalcount="4" value="?"/>
+                    <sequence id="seq_47_Nimanda" spec="Sequence" taxon="47_Nimanda" totalcount="4" value="?"/>
+                    <sequence id="seq_48_Radhavallabhi" spec="Sequence" taxon="48_Radhavallabhi" totalcount="4" value="?"/>
+                    <sequence id="seq_49_Tendai" spec="Sequence" taxon="49_Tendai" totalcount="4" value="?"/>
+                    <sequence id="seq_50_Ji" spec="Sequence" taxon="50_Ji" totalcount="4" value="?"/>
+                    <sequence id="seq_51_Seizan" spec="Sequence" taxon="51_Seizan" totalcount="4" value="?"/>
+                    <sequence id="seq_52_Fuji" spec="Sequence" taxon="52_Fuji" totalcount="4" value="?"/>
+                    <sequence id="seq_53_Seon" spec="Sequence" taxon="53_Seon" totalcount="4" value="?"/>
+                    <sequence id="seq_54_Chinzei" spec="Sequence" taxon="54_Chinzei" totalcount="4" value="?"/>
+                    <sequence id="seq_55_Shin" spec="Sequence" taxon="55_Shin" totalcount="4" value="?"/>
+                    <sequence id="seq_56_Kadmi" spec="Sequence" taxon="56_Kadmi" totalcount="4" value="?"/>
+                    <sequence id="seq_57_Shenshai" spec="Sequence" taxon="57_Shenshai" totalcount="4" value="?"/>
+                    <sequence id="seq_58_Tenkalai" spec="Sequence" taxon="58_Tenkalai" totalcount="4" value="?"/>
+                    <sequence id="seq_59_Vatakalai" spec="Sequence" taxon="59_Vatakalai" totalcount="4" value="?"/>
+                    <sequence id="seq_60_Gelukpa" spec="Sequence" taxon="60_Gelukpa" totalcount="4" value="?"/>
+                    <sequence id="seq_61_Kadampa" spec="Sequence" taxon="61_Kadampa" totalcount="4" value="?"/>
+                    <sequence id="seq_62_Obaku" spec="Sequence" taxon="62_Obaku" totalcount="4" value="?"/>
+                    <sequence id="seq_63_Rinzai" spec="Sequence" taxon="63_Rinzai" totalcount="4" value="?"/>
+                    <sequence id="seq_64_Varkari" spec="Sequence" taxon="64_Varkari" totalcount="4" value="?"/>
+                    <sequence id="seq_65_Fujufuse" spec="Sequence" taxon="65_Fujufuse" totalcount="4" value="?"/>
+                    <sequence id="seq_66_Itchi" spec="Sequence" taxon="66_Itchi" totalcount="4" value="?"/>
+                    <sequence id="seq_67_Shoretsu" spec="Sequence" taxon="67_Shoretsu" totalcount="4" value="?"/>
+                    <sequence id="seq_68_TaranSvami" spec="Sequence" taxon="68_TaranSvami" totalcount="4" value="?"/>
+                    <sequence id="seq_69_Dadupanth" spec="Sequence" taxon="69_Dadupanth" totalcount="4" value="?"/>
+                    <sequence id="seq_70_Raidasi" spec="Sequence" taxon="70_Raidasi" totalcount="4" value="?"/>
+                    <sequence id="seq_71_Ramanandi" spec="Sequence" taxon="71_Ramanandi" totalcount="4" value="?"/>
+                    <sequence id="seq_72_Murtipujaka" spec="Sequence" taxon="72_Murtipujaka" totalcount="4" value="?"/>
+                    <sequence id="seq_73_Udasi" spec="Sequence" taxon="73_Udasi" totalcount="4" value="?"/>
+                    <sequence id="seq_74_Bisapanthi" spec="Sequence" taxon="74_Bisapanthi" totalcount="4" value="?"/>
+                    <sequence id="seq_75_DTerapanthi" spec="Sequence" taxon="75_DTerapanthi" totalcount="4" value="?"/>
+                    <sequence id="seq_76_STerapanthi" spec="Sequence" taxon="76_STerapanthi" totalcount="4" value="?"/>
+                    <sequence id="seq_77_Sthanakvasi" spec="Sequence" taxon="77_Sthanakvasi" totalcount="4" value="?"/>
+                    <sequence id="seq_78_Namdhari" spec="Sequence" taxon="78_Namdhari" totalcount="4" value="?"/>
+                    <sequence id="seq_79_TatKhalsa" spec="Sequence" taxon="79_TatKhalsa" totalcount="4" value="?"/>
+                    <sequence id="seq_80_OtherMahanikaya" spec="Sequence" taxon="80_OtherMahanikaya" totalcount="4" value="?"/>
+                    <sequence id="seq_81_Thudhamma" spec="Sequence" taxon="81_Thudhamma" totalcount="4" value="?"/>
+                    <sequence id="seq_82_Vallabha" spec="Sequence" taxon="82_Vallabha" totalcount="4" value="?"/>
+                    <sequence id="seq_83_ThaiMahanikaya" spec="Sequence" taxon="83_ThaiMahanikaya" totalcount="4" value="?"/>
+                    <sequence id="seq_84_Thammayut" spec="Sequence" taxon="84_Thammayut" totalcount="4" value="?"/>
+                    <sequence id="seq_85_Nirankari" spec="Sequence" taxon="85_Nirankari" totalcount="4" value="?"/>
+                    <sequence id="seq_86_Sanatan" spec="Sequence" taxon="86_Sanatan" totalcount="4" value="?"/>
+                    <sequence id="seq_87_Kabirpanth" spec="Sequence" taxon="87_Kabirpanth" totalcount="4" value="?"/>
+                    <sequence id="seq_88_Radhasoami" spec="Sequence" taxon="88_Radhasoami" totalcount="4" value="?"/>
+                    <sequence id="seq_89_Ramanna" spec="Sequence" taxon="89_Ramanna" totalcount="4" value="?"/>
+                    <sequence id="seq_90_SiyamNikaya" spec="Sequence" taxon="90_SiyamNikaya" totalcount="4" value="?"/>
+                    <sequence id="seq_91_AryaSamaj" spec="Sequence" taxon="91_AryaSamaj" totalcount="4" value="?"/>
+                    <sequence id="seq_92_NeoVedanta" spec="Sequence" taxon="92_NeoVedanta" totalcount="4" value="?"/>
+                    <sequence id="seq_93_Smarta" spec="Sequence" taxon="93_Smarta" totalcount="4" value="?"/>
+                    <sequence id="seq_94_BAPS" spec="Sequence" taxon="94_BAPS" totalcount="4" value="?"/>
+                    <sequence id="seq_95_OtherSwaminarayan" spec="Sequence" taxon="95_OtherSwaminarayan" totalcount="4" value="?"/>
+                    </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+<!--
+            <initial id="BDTree.t:IndoIranian" spec="beast.evolution.tree.MultiRateTreeFromBDModel">
+                <stateChangeModel id="initModel.t:IndoIranian" spec="beast.evolution.tree.StateChangeModel">
+                    <parameter id="initgamma.t:IndoIranian" spec="parameter.RealParameter" name="gamma">0.05</parameter>
+                    <lambdas id="initlambdas.t:IndoIranian" spec="parameter.ExtendableRealParameter">1.5</lambdas>
+                    <mus id="initmus.t:IndoIranian" spec="parameter.ExtendableRealParameter">0.25</mus>
+                    <nstar id="initnstar.t:IndoIranian" spec="parameter.IntegerParameter" lower="2">5</nstar>
+                </stateChangeModel>
+            </initial>
+-->
+
+<run id="mcmc" spec="beast.gss.NS" subChainLength="10000" chainLength="1000000" preBurnin="0" particleCount="$(points=10)" epsilon="1e-13">
+    <state id="state" spec="State" storeEvery="5000">
+        <stateNode id="Tree.t:IndoIranian" spec="beast.evolution.tree.MultiRateTree">
+            <initial id="NewTree.t:IndoIranian" spec="beast.evolution.tree.MultiRateTreeFromNewick" adjustTipHeights="false" isLabelledNewick="true" newick="((((01_Ajivika:1889.9359832006044,((14_Yapaniya:1098.253886801866,(72_Murtipujaka:361.7252076462164,(76_STerapanthi:158.00258028384133,77_Sthanakvasi:158.00258028384133):203.72262736237508):1205.3380983477432):335.8716847408341,(68_TaranSvami:426.33747129313224,(74_Bisapanthi:267.1407573923311,75_DTerapanthi:267.1407573923311):159.19671390080111):1476.597519441662):455.54562121446406):212.96516693137528,(((03_Gokulika:633.4914269109995,04_Lokottaravada:633.1879424721346):881.1195391228375,(07_Mahasamghika:1342.7905151041145,((10_Aparasaila:499.85627779901984,(11_Purvasaila:423.03773961541583,13_Siddharthika:419.9026738641792):80.02183554353564):23.23943938845673,12_Rajagirika:525.923120535736):44.030506271219565):169.71650694455502):119.63256971984629,(((((05_Kasyapiya:497.2910440856813,06_Mahisasaka:496.0128019764852):75.20855169136121,((((19_Kyo:781.3098246569784,((34_Tiantai:799.6839898294843,35_WhiteLotus:203.6824571551001):76.95231680568031,(((43_Chorakuji:203.0290650443012,(54_Chinzei:619.6496176980409,55_Shin:619.6496176980409):53.646262788247896):15.282045742226728,(50_Ji:641.9648320601477,51_Seizan:641.9648320601477):46.61309416836775):147.90909212835822,(49_Tendai:650.0220181807053,(52_Fuji:631.9631145526364,((65_Fujufuse:370.4500868035684,67_Shoretsu:370.4500868035684):95.6354140135345,66_Itchi:466.0855008171029):165.8776137355335):18.058903628068492):186.46500017616836):40.149288278290896):328.71938368061774):134.09309056099846,20_Sanjiejiao:266.44731580413236):48.63868491949688,(21_NorthernChan:93.25882968093583,(26_Soto:1148.8711183812602,(53_Seon:623.050334349346,(62_Obaku:456.6328743812355,63_Rinzai:456.6328743812355):166.4174599681105):525.8207840319142):66.39085401832835):172.82549339668913):11.990656175074946,(((22_Hosso:565.0040627987205,24_Ritsu:565.0040627987205):158.40818779919528,23_Kegon:723.4122505979158):467.12261534037316,(39_Shingon:792.5848532787004,40_Tachikawaryu:523.3932632423944):397.95001265958854):209.5432560330646):629.6847108882057):83.12493147728082,((16_Abhayagiri:881.0648425852819,17_Jetavaniya:881.3517123399097):342.9609100074467,(((80_OtherMahanikaya:79.90914365288154,81_Thudhamma:79.90914365288154):38.62308012767426,(83_ThaiMahanikaya:72.07560638836321,84_Thammayut:72.07560638836321):46.456617392192584):40.440496006939156,(89_Ramanna:54.00384801784958,90_SiyamNikaya:54.00384801784958):104.96887176964538):1814.3821898721699):139.53285467717478):29.976341291084736,(08_Sammatiya:1303.145574771893,09_Vatsiputriya:1303.6915474762634):214.02761811478717):29.753271899270203,(28_Sarvastivada:404.2641776814662,((36_Nyingmapa:830.3567927001427,37_Sakyapa:830.3567927001427):82.1229737290314,(38_Kagyupa:806.4927154595644,(60_Gelukpa:503.9673875808353,61_Kadampa:111.91024503634844):302.52532787872906):105.98705096961021):115.70367460043872):1144.4339364975817):84.73862463691466):314.08977671652383):623.0424368203844,((02_Vaikhanasa:1915.9567364988864,(((44_Mahanubhava:711.3967178377752,(64_Varkari:470.82590652949466,((((69_Dadupanth:273.62411013729843,70_Raidasi:273.62411013729843):60.406745930569286,71_Ramanandi:334.03085606786726):29.63955218483352,(87_Kabirpanth:57.00119651372643,88_Radhasoami:57.00119651372643):306.66921173897435):54.84884233935463,((73_Udasi:236.29157589655597,(85_Nirankari:67.00123470442668,86_Sanatan:67.00123470442668):169.29034119212974):54.00436381584268,(78_Namdhari:128.28684487114788,79_TatKhalsa:128.28684487114788):162.00909484125077):128.22331087965676):52.306655937439245):240.57081130828055):72.2359377632124,(((45_Gaudiya:446.81238690901955,46_Mahdva:446.81238690901955):126.32767428615216,(82_Vallabha:117.4981107679805,(94_BAPS:11.508699899700787,95_OtherSwaminarayan:11.508699899700787):105.98941086827972):455.6419504271912):46.19632898652435,(47_Nimanda:447.506692813648,48_Radhavallabhi:447.506692813648):171.82969736804807):164.29626541929156):358.33378117054644,(58_Tenkalai:558.0432266281778,59_Vatakalai:558.0432266281778):583.9232101433563):773.9902997273523):297.774814060366,((15_Saura:453.8624313275086,((91_AryaSamaj:32.985031345339394,92_NeoVedanta:32.985031345339394):6.93477995815374,93_Smarta:39.919811303493134):782.9498389137134):803.1107353021662,((25_Siddhanta:1057.9187150475127,(((29_Aghori:648.4787455543678,31_Nath:648.4787455543678):229.54132924645864,(30_Krama:644.9928776120669,33_Trika:644.9928776120669):233.0271971887596):48.51536237789287,32_Srividya:926.5354371787189):131.38327786879336):332.6908678558075,(27_Pasupata:623.8055690700448,(41_Kalamukha:97.97535165522459,42_Virasaiva:766.8476748082676):300.0227672404885):323.73914085456363):235.37080261605297):587.7511650398792):980.7566651417656):705.0097988658135,(18_Mazdakite:330.78008007450626,(56_Kadmi:548.0919526989305,57_Shenshai:548.0919526989305):951.5215948582218):2399.884467009679):0.0"/>
+            <taxonset id="TaxonSet.IndoIranian" spec="TaxonSet">
+                <alignment idref="IndoIranian"/>
+            </taxonset>
+        </stateNode>
+        <stateNode id="lambdas.t:IndoIranian" spec="parameter.ExtendableRealParameter" lower="0.0">1.5</stateNode>
+        <stateNode id="mus.t:IndoIranian" spec="parameter.ExtendableRealParameter" lower="0.0">0.25</stateNode>
+        <parameter id="gamma.t:IndoIranian" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.005</parameter>
+        <stateNode id="nstar.t:IndoIranian" spec="parameter.IntegerParameter" lower="2">5</stateNode>
+    </state>
+
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <prior id="gammaPrior.t:IndoIranian" name="distribution" x="@gamma.t:IndoIranian">
+                <LogNormal id="LogNormalDistributionModel.2" name="distr">
+                    <parameter id="RealParameter.5" spec="parameter.RealParameter" estimate="false" name="M">-6.5</parameter>
+                    <parameter id="RealParameter.6" spec="parameter.RealParameter" estimate="false" lower="0.0" name="S" upper="5.0">1.0</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="lambdasPrior.t:IndoIranian" name="distribution" x="@lambdas.t:IndoIranian">
+                <LogNormal id="LogNormalDistributionModel.l0" name="distr">
+                    <parameter id="RealParameter.1" spec="parameter.RealParameter" estimate="false" name="M">-2.0</parameter>
+                    <parameter id="RealParameter.2" spec="parameter.RealParameter" estimate="false" lower="0.0" name="S" upper="5.0">2.0</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="musPrior.t:IndoIranian" name="distribution" x="@mus.t:IndoIranian">
+                <LogNormal id="LogNormalDistributionModel.m0" name="distr">
+                    <parameter id="RealParameter.3" spec="parameter.RealParameter" estimate="false" name="M">0.0</parameter>
+                    <parameter id="RealParameter.4" spec="parameter.RealParameter" estimate="false" lower="0.0" name="S" upper="5.0">2.0</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="nstarPrior.t:IndoIranian" name="distribution" x="@nstar.t:IndoIranian">
+                <distr id="Poisson.0" spec="beast.math.distributions.Poisson">
+                    <parameter id="RealParameter.7" spec="parameter.RealParameter" estimate="false" name="lambda">2.0</parameter>
+                </distr>
+            </prior>
+            <distribution id="stdBDMRT.t:IndoIranian" spec="multiratetree.distributions.StdBirthDeathDensity" multiRateTree="@Tree.t:IndoIranian">
+                <stateChangeModel id="stdscModel.t:IndoIranian" spec="beast.evolution.tree.StateChangeModel" 
+                	gamma="@gamma.t:IndoIranian" lambdas="@lambdas.t:IndoIranian" mus="@mus.t:IndoIranian" nstar="@nstar.t:IndoIranian"
+                	isMuFixed="true" 
+                	rho="0.8"
+                	sigma="0.5"/>
+            </distribution>
+            
+            
+            <prior id="rateCountPrior.t:IndoIranian" name="distribution" x="@totalStateChanges.t:IndoIranian">
+                <distr spec="beast.math.distributions.AlmostUniform" lower="$(lower=-0.5)" upper="$(upper=0.5)"/>
+            </prior>
+
+            <!-- no religion has an origin over 100kya -->
+            <!-- this is useful to keep trees reasonably aged when sampling from the prior -->
+			<distribution id="root.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset idref="t3918_194.1"/>
+                <Uniform name="distr" upper="100000"/>
+            </distribution>
+
+            
+			<!-- tip prior to keep contemporary religions at age 0 (or very close to it) -->
+			<!-- this allows the NodeShiftRetype operator to do proposals for leaf nodes -->
+            <distribution id="contemporary.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="false" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="contemporary.leafs" spec="TaxonSet">
+            	<taxon idref="02_Vaikhanasa"/>
+				<taxon idref="22_Hosso"/>
+				<taxon idref="23_Kegon"/>
+				<taxon idref="24_Ritsu"/>
+				<taxon idref="25_Siddhanta"/>
+				<taxon idref="26_Soto"/>
+				<taxon idref="29_Aghori"/>
+				<taxon idref="30_Krama"/>
+				<taxon idref="31_Nath"/>
+				<taxon idref="32_Srividya"/>
+				<taxon idref="33_Trika"/>
+				<taxon idref="34_Tiantai"/>
+				<taxon idref="36_Nyingmapa"/>
+				<taxon idref="37_Sakyapa"/>
+				<taxon idref="38_Kagyupa"/>
+				<taxon idref="39_Shingon"/>
+				<taxon idref="42_Virasaiva"/>
+				<taxon idref="44_Mahanubhava"/>
+				<taxon idref="45_Gaudiya"/>
+				<taxon idref="46_Mahdva"/>
+				<taxon idref="47_Nimanda"/>
+				<taxon idref="48_Radhavallabhi"/>
+				<taxon idref="49_Tendai"/>
+				<taxon idref="50_Ji"/>
+				<taxon idref="51_Seizan"/>
+				<taxon idref="52_Fuji"/>
+				<taxon idref="53_Seon"/>
+				<taxon idref="54_Chinzei"/>
+				<taxon idref="55_Shin"/>
+				<taxon idref="56_Kadmi"/>
+				<taxon idref="57_Shenshai"/>
+				<taxon idref="58_Tenkalai"/>
+				<taxon idref="59_Vatakalai"/>
+				<taxon idref="60_Gelukpa"/>
+				<taxon idref="62_Obaku"/>
+				<taxon idref="63_Rinzai"/>
+				<taxon idref="64_Varkari"/>
+				<taxon idref="65_Fujufuse"/>
+				<taxon idref="66_Itchi"/>
+				<taxon idref="67_Shoretsu"/>
+				<taxon idref="68_TaranSvami"/>
+				<taxon idref="69_Dadupanth"/>
+				<taxon idref="70_Raidasi"/>
+				<taxon idref="71_Ramanandi"/>
+				<taxon idref="72_Murtipujaka"/>
+				<taxon idref="73_Udasi"/>
+				<taxon idref="74_Bisapanthi"/>
+				<taxon idref="75_DTerapanthi"/>
+				<taxon idref="76_STerapanthi"/>
+				<taxon idref="77_Sthanakvasi"/>
+				<taxon idref="78_Namdhari"/>
+				<taxon idref="79_TatKhalsa"/>
+				<taxon idref="80_OtherMahanikaya"/>
+				<taxon idref="81_Thudhamma"/>
+				<taxon idref="82_Vallabha"/>
+				<taxon idref="83_ThaiMahanikaya"/>
+				<taxon idref="84_Thammayut"/>
+				<taxon idref="85_Nirankari"/>
+				<taxon idref="86_Sanatan"/>
+				<taxon idref="87_Kabirpanth"/>
+				<taxon idref="88_Radhasoami"/>
+				<taxon idref="89_Ramanna"/>
+				<taxon idref="90_SiyamNikaya"/>
+				<taxon idref="91_AryaSamaj"/>
+				<taxon idref="92_NeoVedanta"/>
+				<taxon idref="93_Smarta"/>
+				<taxon idref="94_BAPS"/>
+				<taxon idref="95_OtherSwaminarayan"/>
+                </taxonset>
+                <Normal name="distr" mean="0" sigma="1e-10"/>
+            </distribution>
+
+            <distribution id="01_Ajivika.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="01_Ajivika.leaf" spec="TaxonSet">
+                    <taxon id="01_Ajivika" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.0" name="distr">
+                    <parameter id="param.1" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">468.0</parameter>
+                    <parameter id="param.2" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="03_Gokulika.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="03_Gokulika.leaf" spec="TaxonSet">
+                    <taxon id="03_Gokulika" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.01" name="distr">
+                    <parameter id="param.11" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">620.0</parameter>
+                    <parameter id="param.21" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">39.4</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="04_Lokottaravada.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="04_Lokottaravada.leaf" spec="TaxonSet">
+                    <taxon id="04_Lokottaravada" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.02" name="distr">
+                    <parameter id="param.12" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">620.0</parameter>
+                    <parameter id="param.22" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">39.4</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="05_Kasyapiya.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="05_Kasyapiya.leaf" spec="TaxonSet">
+                    <taxon id="05_Kasyapiya" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.03" name="distr">
+                    <parameter id="param.13" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1443.0</parameter>
+                    <parameter id="param.23" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">106.75</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="06_Mahisasaka.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="06_Mahisasaka.leaf" spec="TaxonSet">
+                    <taxon id="06_Mahisasaka" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.04" name="distr">
+                    <parameter id="param.14" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1443.0</parameter>
+                    <parameter id="param.24" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">106.75</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="07_Mahasamghika.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="07_Mahasamghika.leaf" spec="TaxonSet">
+                    <taxon id="07_Mahasamghika" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.05" name="distr">
+                    <parameter id="param.15" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">620.0</parameter>
+                    <parameter id="param.25" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">39.4</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="08_Sammatiya.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="08_Sammatiya.leaf" spec="TaxonSet">
+                    <taxon id="08_Sammatiya" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.06" name="distr">
+                    <parameter id="param.16" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">620.0</parameter>
+                    <parameter id="param.26" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">39.4</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="09_Vatsiputriya.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="09_Vatsiputriya.leaf" spec="TaxonSet">
+                    <taxon id="09_Vatsiputriya" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.07" name="distr">
+                    <parameter id="param.17" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">620.0</parameter>
+                    <parameter id="param.27" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">39.4</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="10_Aparasaila.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="10_Aparasaila.leaf" spec="TaxonSet">
+                    <taxon id="10_Aparasaila" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.08" name="distr">
+                    <parameter id="param.18" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1393.0</parameter>
+                    <parameter id="param.28" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">87.34</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="11_Purvasaila.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="11_Purvasaila.leaf" spec="TaxonSet">
+                    <taxon id="11_Purvasaila" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.09" name="distr">
+                    <parameter id="param.19" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1393.0</parameter>
+                    <parameter id="param.29" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">87.34</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="12_Rajagirika.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="12_Rajagirika.leaf" spec="TaxonSet">
+                    <taxon id="12_Rajagirika" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.010" name="distr">
+                    <parameter id="param.110" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1393.0</parameter>
+                    <parameter id="param.210" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">87.34</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="13_Siddharthika.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="13_Siddharthika.leaf" spec="TaxonSet">
+                    <taxon id="13_Siddharthika" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.011" name="distr">
+                    <parameter id="param.111" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1393.0</parameter>
+                    <parameter id="param.211" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">87.34</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="14_Yapaniya.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="14_Yapaniya.leaf" spec="TaxonSet">
+                    <taxon id="14_Yapaniya" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.012" name="distr">
+                    <parameter id="param.112" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">468.0</parameter>
+                    <parameter id="param.212" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="15_Saura.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="15_Saura.leaf" spec="TaxonSet">
+                    <taxon id="15_Saura" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.013" name="distr">
+                    <parameter id="param.113" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">368.0</parameter>
+                    <parameter id="param.213" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="16_Abhayagiri.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="16_Abhayagiri.leaf" spec="TaxonSet">
+                    <taxon id="16_Abhayagiri" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.014" name="distr">
+                    <parameter id="param.114" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">749.0</parameter>
+                    <parameter id="param.214" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">6.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="17_Jetavaniya.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="17_Jetavaniya.leaf" spec="TaxonSet">
+                    <taxon id="17_Jetavaniya" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.015" name="distr">
+                    <parameter id="param.115" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">749.0</parameter>
+                    <parameter id="param.215" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">6.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="18_Mazdakite.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="18_Mazdakite.leaf" spec="TaxonSet">
+                    <taxon id="18_Mazdakite" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.016" name="distr">
+                    <parameter id="param.116" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1168.0</parameter>
+                    <parameter id="param.216" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="19_Kyo.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="19_Kyo.leaf" spec="TaxonSet">
+                    <taxon id="19_Kyo" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.017" name="distr">
+                    <parameter id="param.117" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">420.0</parameter>
+                    <parameter id="param.217" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">41.15</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="20_Sanjiejiao.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="20_Sanjiejiao.leaf" spec="TaxonSet">
+                    <taxon id="20_Sanjiejiao" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.018" name="distr">
+                    <parameter id="param.118" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1073.0</parameter>
+                    <parameter id="param.218" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="21_NorthernChan.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="21_NorthernChan.leaf" spec="TaxonSet">
+                    <taxon id="21_NorthernChan" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.019" name="distr">
+                    <parameter id="param.119" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1122.0</parameter>
+                    <parameter id="param.219" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="27_Pasupata.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="27_Pasupata.leaf" spec="TaxonSet">
+                    <taxon id="27_Pasupata" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.020" name="distr">
+                    <parameter id="param.120" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">443.0</parameter>
+                    <parameter id="param.220" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">9.7</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="28_Sarvastivada.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="28_Sarvastivada.leaf" spec="TaxonSet">
+                    <taxon id="28_Sarvastivada" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.021" name="distr">
+                    <parameter id="param.121" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">620.0</parameter>
+                    <parameter id="param.221" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">39.4</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="35_WhiteLotus.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="35_WhiteLotus.leaf" spec="TaxonSet">
+                    <taxon id="35_WhiteLotus" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.022" name="distr">
+                    <parameter id="param.122" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">596.0</parameter>
+                    <parameter id="param.222" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="40_Tachikawaryu.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="40_Tachikawaryu.leaf" spec="TaxonSet">
+                    <taxon id="40_Tachikawaryu" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.023" name="distr">
+                    <parameter id="param.123" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">268.0</parameter>
+                    <parameter id="param.223" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="41_Kalamukha.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="41_Kalamukha.leaf" spec="TaxonSet">
+                    <taxon id="41_Kalamukha" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.024" name="distr">
+                    <parameter id="param.124" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">668.0</parameter>
+                    <parameter id="param.224" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="43_Chorakuji.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="43_Chorakuji.leaf" spec="TaxonSet">
+                    <taxon id="43_Chorakuji" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.025" name="distr">
+                    <parameter id="param.125" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">468.0</parameter>
+                    <parameter id="param.225" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="61_Kadampa.leaf.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tipsonly="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="61_Kadampa.leaf" spec="TaxonSet">
+                    <taxon id="61_Kadampa" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.026" name="distr">
+                    <parameter id="param.126" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">388.0</parameter>
+                    <parameter id="param.226" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">43.28</parameter>
+                </Normal>
+            </distribution>
+
+        </distribution>
+        
+        <distribution id="likelihood" spec="util.CompoundDistribution">
+            <!-- root prior -->
+            <distribution id="t3918_194.1.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t3918_194.1" spec="TaxonSet">
+                    <taxon idref="01_Ajivika"/>
+                    <taxon idref="02_Vaikhanasa"/>
+                    <taxon idref="03_Gokulika"/>
+                    <taxon idref="04_Lokottaravada"/>
+                    <taxon idref="05_Kasyapiya"/>
+                    <taxon idref="06_Mahisasaka"/>
+                    <taxon idref="07_Mahasamghika"/>
+                    <taxon idref="08_Sammatiya"/>
+                    <taxon idref="09_Vatsiputriya"/>
+                    <taxon idref="10_Aparasaila"/>
+                    <taxon idref="11_Purvasaila"/>
+                    <taxon idref="12_Rajagirika"/>
+                    <taxon idref="13_Siddharthika"/>
+                    <taxon idref="14_Yapaniya"/>
+                    <taxon idref="15_Saura"/>
+                    <taxon idref="16_Abhayagiri"/>
+                    <taxon idref="17_Jetavaniya"/>
+                    <taxon idref="18_Mazdakite"/>
+                    <taxon idref="19_Kyo"/>
+                    <taxon idref="20_Sanjiejiao"/>
+                    <taxon idref="21_NorthernChan"/>
+                    <taxon idref="22_Hosso"/>
+                    <taxon idref="23_Kegon"/>
+                    <taxon idref="24_Ritsu"/>
+                    <taxon idref="25_Siddhanta"/>
+                    <taxon idref="26_Soto"/>
+                    <taxon idref="27_Pasupata"/>
+                    <taxon idref="28_Sarvastivada"/>
+                    <taxon idref="29_Aghori"/>
+                    <taxon idref="30_Krama"/>
+                    <taxon idref="31_Nath"/>
+                    <taxon idref="32_Srividya"/>
+                    <taxon idref="33_Trika"/>
+                    <taxon idref="34_Tiantai"/>
+                    <taxon idref="35_WhiteLotus"/>
+                    <taxon idref="36_Nyingmapa"/>
+                    <taxon idref="37_Sakyapa"/>
+                    <taxon idref="38_Kagyupa"/>
+                    <taxon idref="39_Shingon"/>
+                    <taxon idref="40_Tachikawaryu"/>
+                    <taxon idref="41_Kalamukha"/>
+                    <taxon idref="42_Virasaiva"/>
+                    <taxon idref="43_Chorakuji"/>
+                    <taxon idref="44_Mahanubhava"/>
+                    <taxon idref="45_Gaudiya"/>
+                    <taxon idref="46_Mahdva"/>
+                    <taxon idref="47_Nimanda"/>
+                    <taxon idref="48_Radhavallabhi"/>
+                    <taxon idref="49_Tendai"/>
+                    <taxon idref="50_Ji"/>
+                    <taxon idref="51_Seizan"/>
+                    <taxon idref="52_Fuji"/>
+                    <taxon idref="53_Seon"/>
+                    <taxon idref="54_Chinzei"/>
+                    <taxon idref="55_Shin"/>
+                    <taxon idref="56_Kadmi"/>
+                    <taxon idref="57_Shenshai"/>
+                    <taxon idref="58_Tenkalai"/>
+                    <taxon idref="59_Vatakalai"/>
+                    <taxon idref="60_Gelukpa"/>
+                    <taxon idref="61_Kadampa"/>
+                    <taxon idref="62_Obaku"/>
+                    <taxon idref="63_Rinzai"/>
+                    <taxon idref="64_Varkari"/>
+                    <taxon idref="65_Fujufuse"/>
+                    <taxon idref="66_Itchi"/>
+                    <taxon idref="67_Shoretsu"/>
+                    <taxon idref="68_TaranSvami"/>
+                    <taxon idref="69_Dadupanth"/>
+                    <taxon idref="70_Raidasi"/>
+                    <taxon idref="71_Ramanandi"/>
+                    <taxon idref="72_Murtipujaka"/>
+                    <taxon idref="73_Udasi"/>
+                    <taxon idref="74_Bisapanthi"/>
+                    <taxon idref="75_DTerapanthi"/>
+                    <taxon idref="76_STerapanthi"/>
+                    <taxon idref="77_Sthanakvasi"/>
+                    <taxon idref="78_Namdhari"/>
+                    <taxon idref="79_TatKhalsa"/>
+                    <taxon idref="80_OtherMahanikaya"/>
+                    <taxon idref="81_Thudhamma"/>
+                    <taxon idref="82_Vallabha"/>
+                    <taxon idref="83_ThaiMahanikaya"/>
+                    <taxon idref="84_Thammayut"/>
+                    <taxon idref="85_Nirankari"/>
+                    <taxon idref="86_Sanatan"/>
+                    <taxon idref="87_Kabirpanth"/>
+                    <taxon idref="88_Radhasoami"/>
+                    <taxon idref="89_Ramanna"/>
+                    <taxon idref="90_SiyamNikaya"/>
+                    <taxon idref="91_AryaSamaj"/>
+                    <taxon idref="92_NeoVedanta"/>
+                    <taxon idref="93_Smarta"/>
+                    <taxon idref="94_BAPS"/>
+                    <taxon idref="95_OtherSwaminarayan"/>
+                </taxonset>
+                <Normal id="Normal.063" name="distr">
+                    <parameter id="param.163" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">3918.0</parameter>
+                    <parameter id="param.263" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">194.1</parameter>
+                </Normal>
+            </distribution>
+
+            <distribution id="t1018_116.46a.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1018_116.46a" spec="TaxonSet">
+                    <taxon id="29_Aghori" spec="Taxon"/>
+                    <taxon id="30_Krama" spec="Taxon"/>
+                    <taxon id="31_Nath" spec="Taxon"/>
+                    <taxon id="25_Siddhanta" spec="Taxon"/>
+                    <taxon id="32_Srividya" spec="Taxon"/>
+                    <taxon id="33_Trika" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.027" name="distr">
+                    <parameter id="param.127" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1018.0</parameter>
+                    <parameter id="param.227" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">116.46</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1018_116.46b.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1018_116.46b" spec="TaxonSet">
+                    <taxon idref="29_Aghori"/>
+                    <taxon idref="30_Krama"/>
+                    <taxon idref="31_Nath"/>
+                    <taxon idref="32_Srividya"/>
+                    <taxon idref="33_Trika"/>
+                </taxonset>
+                <Normal id="Normal.028" name="distr">
+                    <parameter id="param.128" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1018.0</parameter>
+                    <parameter id="param.228" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">116.46</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1030.5_43.67.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1030.5_43.67" spec="TaxonSet">
+                    <taxon idref="28_Sarvastivada"/>
+                    <taxon id="36_Nyingmapa" spec="Taxon"/>
+                    <taxon id="37_Sakyapa" spec="Taxon"/>
+                    <taxon id="38_Kagyupa" spec="Taxon"/>
+                    <taxon id="60_Gelukpa" spec="Taxon"/>
+                    <taxon idref="61_Kadampa"/>
+                </taxonset>
+                <Normal id="Normal.029" name="distr">
+                    <parameter id="param.129" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1030.5</parameter>
+                    <parameter id="param.229" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">43.67</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1068_19.41.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1068_19.41" spec="TaxonSet">
+                    <taxon idref="27_Pasupata"/>
+                    <taxon idref="41_Kalamukha"/>
+                    <taxon id="42_Virasaiva" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.030" name="distr">
+                    <parameter id="param.130" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1068.0</parameter>
+                    <parameter id="param.230" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t11.5_0.19.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t11.5_0.19" spec="TaxonSet">
+                    <taxon id="94_BAPS" spec="Taxon"/>
+                    <taxon id="95_OtherSwaminarayan" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.031" name="distr">
+                    <parameter id="param.131" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">11.5</parameter>
+                    <parameter id="param.231" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.19</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1149_7.38.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1149_7.38" spec="TaxonSet">
+                    <taxon id="26_Soto" spec="Taxon"/>
+                    <taxon id="53_Seon" spec="Taxon"/>
+                    <taxon id="62_Obaku" spec="Taxon"/>
+                    <taxon id="63_Rinzai" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.032" name="distr">
+                    <parameter id="param.132" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1149.0</parameter>
+                    <parameter id="param.232" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">7.38</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1168_97.05.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1168_97.05" spec="TaxonSet">
+                    <taxon id="44_Mahanubhava" spec="Taxon"/>
+                    <taxon id="46_Mahdva" spec="Taxon"/>
+                    <taxon id="47_Nimanda" spec="Taxon"/>
+                    <taxon id="45_Gaudiya" spec="Taxon"/>
+                    <taxon id="48_Radhavallabhi" spec="Taxon"/>
+                    <taxon id="58_Tenkalai" spec="Taxon"/>
+                    <taxon id="59_Vatakalai" spec="Taxon"/>
+                    <taxon id="69_Dadupanth" spec="Taxon"/>
+                    <taxon id="70_Raidasi" spec="Taxon"/>
+                    <taxon id="71_Ramanandi" spec="Taxon"/>
+                    <taxon id="64_Varkari" spec="Taxon"/>
+                    <taxon id="73_Udasi" spec="Taxon"/>
+                    <taxon id="78_Namdhari" spec="Taxon"/>
+                    <taxon id="79_TatKhalsa" spec="Taxon"/>
+                    <taxon id="82_Vallabha" spec="Taxon"/>
+                    <taxon id="85_Nirankari" spec="Taxon"/>
+                    <taxon id="86_Sanatan" spec="Taxon"/>
+                    <taxon id="87_Kabirpanth" spec="Taxon"/>
+                    <taxon id="88_Radhasoami" spec="Taxon"/>
+                    <taxon idref="94_BAPS"/>
+                    <taxon idref="95_OtherSwaminarayan"/>
+                </taxonset>
+                <Normal id="Normal.033" name="distr">
+                    <parameter id="param.133" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1168.0</parameter>
+                    <parameter id="param.233" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">97.05</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t117.5_0.19.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t117.5_0.19" spec="TaxonSet">
+                    <taxon idref="82_Vallabha"/>
+                    <taxon idref="94_BAPS"/>
+                    <taxon idref="95_OtherSwaminarayan"/>
+                </taxonset>
+                <Normal id="Normal.034" name="distr">
+                    <parameter id="param.134" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">117.5</parameter>
+                    <parameter id="param.234" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.19</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t118_7.38.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t118_7.38" spec="TaxonSet">
+                    <taxon id="80_OtherMahanikaya" spec="Taxon"/>
+                    <taxon id="81_Thudhamma" spec="Taxon"/>
+                    <taxon id="83_ThaiMahanikaya" spec="Taxon"/>
+                    <taxon id="84_Thammayut" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.035" name="distr">
+                    <parameter id="param.135" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">118.0</parameter>
+                    <parameter id="param.235" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">7.38</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1196.5_31.64.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1196.5_31.64" spec="TaxonSet">
+                    <taxon id="22_Hosso" spec="Taxon"/>
+                    <taxon id="23_Kegon" spec="Taxon"/>
+                    <taxon id="24_Ritsu" spec="Taxon"/>
+                    <taxon id="39_Shingon" spec="Taxon"/>
+                    <taxon idref="40_Tachikawaryu"/>
+                </taxonset>
+                <Normal id="Normal.036" name="distr">
+                    <parameter id="param.136" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1196.5</parameter>
+                    <parameter id="param.236" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">31.64</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1216_10.87.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1216_10.87" spec="TaxonSet">
+                    <taxon idref="21_NorthernChan"/>
+                    <taxon idref="26_Soto"/>
+                    <taxon idref="53_Seon"/>
+                    <taxon idref="62_Obaku"/>
+                    <taxon idref="63_Rinzai"/>
+                </taxonset>
+                <Normal id="Normal.037" name="distr">
+                    <parameter id="param.137" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1216.0</parameter>
+                    <parameter id="param.237" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">10.87</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t135.5_28.92.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t135.5_28.92" spec="TaxonSet">
+                    <taxon idref="78_Namdhari"/>
+                    <taxon idref="79_TatKhalsa"/>
+                </taxonset>
+                <Normal id="Normal.038" name="distr">
+                    <parameter id="param.138" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">135.5</parameter>
+                    <parameter id="param.238" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">28.92</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1370_63.66.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1370_63.66" spec="TaxonSet">
+                    <taxon idref="19_Kyo"/>
+                    <taxon idref="20_Sanjiejiao"/>
+                    <taxon idref="21_NorthernChan"/>
+                    <taxon idref="22_Hosso"/>
+                    <taxon idref="23_Kegon"/>
+                    <taxon idref="24_Ritsu"/>
+                    <taxon idref="26_Soto"/>
+                    <taxon id="34_Tiantai" spec="Taxon"/>
+                    <taxon idref="35_WhiteLotus"/>
+                    <taxon idref="39_Shingon"/>
+                    <taxon idref="40_Tachikawaryu"/>
+                    <taxon idref="43_Chorakuji"/>
+                    <taxon id="49_Tendai" spec="Taxon"/>
+                    <taxon id="50_Ji" spec="Taxon"/>
+                    <taxon id="51_Seizan" spec="Taxon"/>
+                    <taxon id="52_Fuji" spec="Taxon"/>
+                    <taxon idref="53_Seon"/>
+                    <taxon id="54_Chinzei" spec="Taxon"/>
+                    <taxon id="55_Shin" spec="Taxon"/>
+                    <taxon idref="62_Obaku"/>
+                    <taxon idref="63_Rinzai"/>
+                    <taxon id="65_Fujufuse" spec="Taxon"/>
+                    <taxon id="66_Itchi" spec="Taxon"/>
+                    <taxon id="67_Shoretsu" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.039" name="distr">
+                    <parameter id="param.139" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1370.0</parameter>
+                    <parameter id="param.239" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">63.66</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1393_29.11.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1393_29.11" spec="TaxonSet">
+                    <taxon idref="27_Pasupata"/>
+                    <taxon idref="29_Aghori"/>
+                    <taxon idref="30_Krama"/>
+                    <taxon idref="31_Nath"/>
+                    <taxon idref="25_Siddhanta"/>
+                    <taxon idref="32_Srividya"/>
+                    <taxon idref="33_Trika"/>
+                    <taxon idref="41_Kalamukha"/>
+                    <taxon idref="42_Virasaiva"/>
+                </taxonset>
+                <Normal id="Normal.040" name="distr">
+                    <parameter id="param.140" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1393.0</parameter>
+                    <parameter id="param.240" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">29.11</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1502.5_44.84.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1502.5_44.84" spec="TaxonSet">
+                    <taxon idref="18_Mazdakite"/>
+                    <taxon id="56_Kadmi" spec="Taxon"/>
+                    <taxon id="57_Shenshai" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.041" name="distr">
+                    <parameter id="param.141" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1502.5</parameter>
+                    <parameter id="param.241" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">44.84</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t158_0.1.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t158_0.1" spec="TaxonSet">
+                    <taxon id="76_STerapanthi" spec="Taxon"/>
+                    <taxon id="77_Sthanakvasi" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.042" name="distr">
+                    <parameter id="param.142" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">158.0</parameter>
+                    <parameter id="param.242" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t159_2.33.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t159_2.33" spec="TaxonSet">
+                    <taxon idref="80_OtherMahanikaya"/>
+                    <taxon idref="81_Thudhamma"/>
+                    <taxon idref="83_ThaiMahanikaya"/>
+                    <taxon idref="84_Thammayut"/>
+                    <taxon id="89_Ramanna" spec="Taxon"/>
+                    <taxon id="90_SiyamNikaya" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.043" name="distr">
+                    <parameter id="param.143" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">159.0</parameter>
+                    <parameter id="param.243" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">2.33</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1630.5_5.24.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1630.5_5.24" spec="TaxonSet">
+                    <taxon idref="16_Abhayagiri"/>
+                    <taxon idref="17_Jetavaniya"/>
+                </taxonset>
+                <Normal id="Normal.044" name="distr">
+                    <parameter id="param.144" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1630.5</parameter>
+                    <parameter id="param.244" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">5.24</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1643_87.34.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1643_87.34" spec="TaxonSet">
+                    <taxon idref="15_Saura"/>
+                    <taxon idref="27_Pasupata"/>
+                    <taxon idref="29_Aghori"/>
+                    <taxon idref="30_Krama"/>
+                    <taxon idref="31_Nath"/>
+                    <taxon idref="25_Siddhanta"/>
+                    <taxon idref="32_Srividya"/>
+                    <taxon idref="33_Trika"/>
+                    <taxon idref="41_Kalamukha"/>
+                    <taxon idref="42_Virasaiva"/>
+                    <taxon id="91_AryaSamaj" spec="Taxon"/>
+                    <taxon id="92_NeoVedanta" spec="Taxon"/>
+                    <taxon id="93_Smarta" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.045" name="distr">
+                    <parameter id="param.145" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1643.0</parameter>
+                    <parameter id="param.245" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">87.34</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1868_174.69.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1868_174.69" spec="TaxonSet">
+                    <taxon idref="14_Yapaniya"/>
+                    <taxon id="68_TaranSvami" spec="Taxon"/>
+                    <taxon id="72_Murtipujaka" spec="Taxon"/>
+                    <taxon id="74_Bisapanthi" spec="Taxon"/>
+                    <taxon id="75_DTerapanthi" spec="Taxon"/>
+                    <taxon idref="76_STerapanthi"/>
+                    <taxon idref="77_Sthanakvasi"/>
+                </taxonset>
+                <Normal id="Normal.046" name="distr">
+                    <parameter id="param.146" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1868.0</parameter>
+                    <parameter id="param.246" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">174.69</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1918_19.41.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1918_19.41" spec="TaxonSet">
+                    <taxon idref="10_Aparasaila"/>
+                    <taxon idref="11_Purvasaila"/>
+                    <taxon idref="12_Rajagirika"/>
+                    <taxon idref="13_Siddharthika"/>
+                </taxonset>
+                <Normal id="Normal.047" name="distr">
+                    <parameter id="param.147" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1918.0</parameter>
+                    <parameter id="param.247" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1918_38.82.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1918_38.82" spec="TaxonSet">
+                    <taxon idref="08_Sammatiya"/>
+                    <taxon idref="09_Vatsiputriya"/>
+                </taxonset>
+                <Normal id="Normal.048" name="distr">
+                    <parameter id="param.148" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1918.0</parameter>
+                    <parameter id="param.248" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">38.82</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1968_9.7.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1968_9.7" spec="TaxonSet">
+                    <taxon idref="07_Mahasamghika"/>
+                    <taxon idref="10_Aparasaila"/>
+                    <taxon idref="11_Purvasaila"/>
+                    <taxon idref="12_Rajagirika"/>
+                    <taxon idref="13_Siddharthika"/>
+                </taxonset>
+                <Normal id="Normal.049" name="distr">
+                    <parameter id="param.149" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1968.0</parameter>
+                    <parameter id="param.249" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">9.7</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t1975.5_15.72.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t1975.5_15.72" spec="TaxonSet">
+                    <taxon idref="16_Abhayagiri"/>
+                    <taxon idref="17_Jetavaniya"/>
+                    <taxon idref="80_OtherMahanikaya"/>
+                    <taxon idref="81_Thudhamma"/>
+                    <taxon idref="83_ThaiMahanikaya"/>
+                    <taxon idref="84_Thammayut"/>
+                    <taxon idref="89_Ramanna"/>
+                    <taxon idref="90_SiyamNikaya"/>
+                </taxonset>
+                <Normal id="Normal.050" name="distr">
+                    <parameter id="param.150" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1975.5</parameter>
+                    <parameter id="param.250" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">15.72</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t2118_19.41.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t2118_19.41" spec="TaxonSet">
+                    <taxon idref="05_Kasyapiya"/>
+                    <taxon idref="06_Mahisasaka"/>
+                    <taxon idref="16_Abhayagiri"/>
+                    <taxon idref="17_Jetavaniya"/>
+                    <taxon idref="19_Kyo"/>
+                    <taxon idref="20_Sanjiejiao"/>
+                    <taxon idref="21_NorthernChan"/>
+                    <taxon idref="22_Hosso"/>
+                    <taxon idref="23_Kegon"/>
+                    <taxon idref="24_Ritsu"/>
+                    <taxon idref="26_Soto"/>
+                    <taxon idref="34_Tiantai"/>
+                    <taxon idref="35_WhiteLotus"/>
+                    <taxon idref="39_Shingon"/>
+                    <taxon idref="40_Tachikawaryu"/>
+                    <taxon idref="43_Chorakuji"/>
+                    <taxon idref="49_Tendai"/>
+                    <taxon idref="50_Ji"/>
+                    <taxon idref="51_Seizan"/>
+                    <taxon idref="52_Fuji"/>
+                    <taxon idref="53_Seon"/>
+                    <taxon idref="54_Chinzei"/>
+                    <taxon idref="55_Shin"/>
+                    <taxon idref="62_Obaku"/>
+                    <taxon idref="63_Rinzai"/>
+                    <taxon idref="65_Fujufuse"/>
+                    <taxon idref="66_Itchi"/>
+                    <taxon idref="67_Shoretsu"/>
+                    <taxon idref="80_OtherMahanikaya"/>
+                    <taxon idref="81_Thudhamma"/>
+                    <taxon idref="83_ThaiMahanikaya"/>
+                    <taxon idref="84_Thammayut"/>
+                    <taxon idref="89_Ramanna"/>
+                    <taxon idref="90_SiyamNikaya"/>
+                </taxonset>
+                <Normal id="Normal.051" name="distr">
+                    <parameter id="param.151" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">2118.0</parameter>
+                    <parameter id="param.251" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t2145_22.9.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t2145_22.9" spec="TaxonSet">
+                    <taxon idref="05_Kasyapiya"/>
+                    <taxon idref="06_Mahisasaka"/>
+                    <taxon idref="08_Sammatiya"/>
+                    <taxon idref="09_Vatsiputriya"/>
+                    <taxon idref="16_Abhayagiri"/>
+                    <taxon idref="17_Jetavaniya"/>
+                    <taxon idref="19_Kyo"/>
+                    <taxon idref="20_Sanjiejiao"/>
+                    <taxon idref="21_NorthernChan"/>
+                    <taxon idref="22_Hosso"/>
+                    <taxon idref="23_Kegon"/>
+                    <taxon idref="24_Ritsu"/>
+                    <taxon idref="26_Soto"/>
+                    <taxon idref="34_Tiantai"/>
+                    <taxon idref="35_WhiteLotus"/>
+                    <taxon idref="39_Shingon"/>
+                    <taxon idref="40_Tachikawaryu"/>
+                    <taxon idref="43_Chorakuji"/>
+                    <taxon idref="49_Tendai"/>
+                    <taxon idref="50_Ji"/>
+                    <taxon idref="51_Seizan"/>
+                    <taxon idref="52_Fuji"/>
+                    <taxon idref="53_Seon"/>
+                    <taxon idref="54_Chinzei"/>
+                    <taxon idref="55_Shin"/>
+                    <taxon idref="62_Obaku"/>
+                    <taxon idref="63_Rinzai"/>
+                    <taxon idref="65_Fujufuse"/>
+                    <taxon idref="66_Itchi"/>
+                    <taxon idref="67_Shoretsu"/>
+                    <taxon idref="80_OtherMahanikaya"/>
+                    <taxon idref="81_Thudhamma"/>
+                    <taxon idref="83_ThaiMahanikaya"/>
+                    <taxon idref="84_Thammayut"/>
+                    <taxon idref="89_Ramanna"/>
+                    <taxon idref="90_SiyamNikaya"/>
+                </taxonset>
+                <Normal id="Normal.052" name="distr">
+                    <parameter id="param.152" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">2145.0</parameter>
+                    <parameter id="param.252" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">22.9</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t2145_42.31.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t2145_42.31" spec="TaxonSet">
+                    <taxon idref="03_Gokulika"/>
+                    <taxon idref="04_Lokottaravada"/>
+                    <taxon idref="07_Mahasamghika"/>
+                    <taxon idref="10_Aparasaila"/>
+                    <taxon idref="11_Purvasaila"/>
+                    <taxon idref="12_Rajagirika"/>
+                    <taxon idref="13_Siddharthika"/>
+                </taxonset>
+                <Normal id="Normal.053" name="distr">
+                    <parameter id="param.153" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">2145.0</parameter>
+                    <parameter id="param.253" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">42.31</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t2168_19.41.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t2168_19.41" spec="TaxonSet">
+                    <taxon idref="05_Kasyapiya"/>
+                    <taxon idref="06_Mahisasaka"/>
+                    <taxon idref="08_Sammatiya"/>
+                    <taxon idref="09_Vatsiputriya"/>
+                    <taxon idref="16_Abhayagiri"/>
+                    <taxon idref="17_Jetavaniya"/>
+                    <taxon idref="19_Kyo"/>
+                    <taxon idref="20_Sanjiejiao"/>
+                    <taxon idref="21_NorthernChan"/>
+                    <taxon idref="22_Hosso"/>
+                    <taxon idref="23_Kegon"/>
+                    <taxon idref="24_Ritsu"/>
+                    <taxon idref="26_Soto"/>
+                    <taxon idref="28_Sarvastivada"/>
+                    <taxon idref="34_Tiantai"/>
+                    <taxon idref="35_WhiteLotus"/>
+                    <taxon idref="36_Nyingmapa"/>
+                    <taxon idref="37_Sakyapa"/>
+                    <taxon idref="38_Kagyupa"/>
+                    <taxon idref="39_Shingon"/>
+                    <taxon idref="40_Tachikawaryu"/>
+                    <taxon idref="43_Chorakuji"/>
+                    <taxon idref="49_Tendai"/>
+                    <taxon idref="50_Ji"/>
+                    <taxon idref="51_Seizan"/>
+                    <taxon idref="52_Fuji"/>
+                    <taxon idref="53_Seon"/>
+                    <taxon idref="54_Chinzei"/>
+                    <taxon idref="55_Shin"/>
+                    <taxon idref="60_Gelukpa"/>
+                    <taxon idref="61_Kadampa"/>
+                    <taxon idref="62_Obaku"/>
+                    <taxon idref="63_Rinzai"/>
+                    <taxon idref="65_Fujufuse"/>
+                    <taxon idref="66_Itchi"/>
+                    <taxon idref="67_Shoretsu"/>
+                    <taxon idref="80_OtherMahanikaya"/>
+                    <taxon idref="81_Thudhamma"/>
+                    <taxon idref="83_ThaiMahanikaya"/>
+                    <taxon idref="84_Thammayut"/>
+                    <taxon idref="89_Ramanna"/>
+                    <taxon idref="90_SiyamNikaya"/>
+                </taxonset>
+                <Normal id="Normal.054" name="distr">
+                    <parameter id="param.154" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">2168.0</parameter>
+                    <parameter id="param.254" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t2259_22.9.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t2259_22.9" spec="TaxonSet">
+                    <taxon idref="03_Gokulika"/>
+                    <taxon idref="04_Lokottaravada"/>
+                    <taxon idref="05_Kasyapiya"/>
+                    <taxon idref="06_Mahisasaka"/>
+                    <taxon idref="07_Mahasamghika"/>
+                    <taxon idref="08_Sammatiya"/>
+                    <taxon idref="09_Vatsiputriya"/>
+                    <taxon idref="10_Aparasaila"/>
+                    <taxon idref="11_Purvasaila"/>
+                    <taxon idref="12_Rajagirika"/>
+                    <taxon idref="13_Siddharthika"/>
+                    <taxon idref="16_Abhayagiri"/>
+                    <taxon idref="17_Jetavaniya"/>
+                    <taxon idref="19_Kyo"/>
+                    <taxon idref="20_Sanjiejiao"/>
+                    <taxon idref="21_NorthernChan"/>
+                    <taxon idref="22_Hosso"/>
+                    <taxon idref="23_Kegon"/>
+                    <taxon idref="24_Ritsu"/>
+                    <taxon idref="26_Soto"/>
+                    <taxon idref="28_Sarvastivada"/>
+                    <taxon idref="34_Tiantai"/>
+                    <taxon idref="35_WhiteLotus"/>
+                    <taxon idref="36_Nyingmapa"/>
+                    <taxon idref="37_Sakyapa"/>
+                    <taxon idref="60_Gelukpa"/>
+                    <taxon idref="38_Kagyupa"/>
+                    <taxon idref="39_Shingon"/>
+                    <taxon idref="40_Tachikawaryu"/>
+                    <taxon idref="43_Chorakuji"/>
+                    <taxon idref="49_Tendai"/>
+                    <taxon idref="50_Ji"/>
+                    <taxon idref="51_Seizan"/>
+                    <taxon idref="52_Fuji"/>
+                    <taxon idref="53_Seon"/>
+                    <taxon idref="54_Chinzei"/>
+                    <taxon idref="55_Shin"/>
+                    <taxon idref="61_Kadampa"/>
+                    <taxon idref="62_Obaku"/>
+                    <taxon idref="63_Rinzai"/>
+                    <taxon idref="65_Fujufuse"/>
+                    <taxon idref="66_Itchi"/>
+                    <taxon idref="67_Shoretsu"/>
+                    <taxon idref="80_OtherMahanikaya"/>
+                    <taxon idref="81_Thudhamma"/>
+                    <taxon idref="83_ThaiMahanikaya"/>
+                    <taxon idref="84_Thammayut"/>
+                    <taxon idref="89_Ramanna"/>
+                    <taxon idref="90_SiyamNikaya"/>
+                </taxonset>
+                <Normal id="Normal.055" name="distr">
+                    <parameter id="param.155" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">2259.0</parameter>
+                    <parameter id="param.255" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">22.9</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t2268_135.87.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t2268_135.87" spec="TaxonSet">
+                    <taxon id="02_Vaikhanasa" spec="Taxon"/>
+                    <taxon idref="15_Saura"/>
+                    <taxon idref="27_Pasupata"/>
+                    <taxon idref="29_Aghori"/>
+                    <taxon idref="30_Krama"/>
+                    <taxon idref="31_Nath"/>
+                    <taxon idref="25_Siddhanta"/>
+                    <taxon idref="32_Srividya"/>
+                    <taxon idref="33_Trika"/>
+                    <taxon idref="41_Kalamukha"/>
+                    <taxon idref="42_Virasaiva"/>
+                    <taxon idref="44_Mahanubhava"/>
+                    <taxon idref="46_Mahdva"/>
+                    <taxon idref="47_Nimanda"/>
+                    <taxon idref="45_Gaudiya"/>
+                    <taxon idref="48_Radhavallabhi"/>
+                    <taxon idref="58_Tenkalai"/>
+                    <taxon idref="59_Vatakalai"/>
+                    <taxon idref="69_Dadupanth"/>
+                    <taxon idref="70_Raidasi"/>
+                    <taxon idref="71_Ramanandi"/>
+                    <taxon idref="64_Varkari"/>
+                    <taxon idref="73_Udasi"/>
+                    <taxon idref="78_Namdhari"/>
+                    <taxon idref="79_TatKhalsa"/>
+                    <taxon idref="82_Vallabha"/>
+                    <taxon idref="85_Nirankari"/>
+                    <taxon idref="86_Sanatan"/>
+                    <taxon idref="87_Kabirpanth"/>
+                    <taxon idref="88_Radhasoami"/>
+                    <taxon idref="91_AryaSamaj"/>
+                    <taxon idref="92_NeoVedanta"/>
+                    <taxon idref="93_Smarta"/>
+                    <taxon idref="94_BAPS"/>
+                    <taxon idref="95_OtherSwaminarayan"/>
+                </taxonset>
+                <Normal id="Normal.056" name="distr">
+                    <parameter id="param.156" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">2268.0</parameter>
+                    <parameter id="param.256" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">135.87</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t2360.5_21.93.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t2360.5_21.93" spec="TaxonSet">
+                    <taxon idref="01_Ajivika"/>
+                    <taxon idref="14_Yapaniya"/>
+                    <taxon idref="68_TaranSvami"/>
+                    <taxon idref="72_Murtipujaka"/>
+                    <taxon idref="74_Bisapanthi"/>
+                    <taxon idref="75_DTerapanthi"/>
+                    <taxon idref="76_STerapanthi"/>
+                    <taxon idref="77_Sthanakvasi"/>
+                </taxonset>
+                <Normal id="Normal.057" name="distr">
+                    <parameter id="param.157" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">2360.0</parameter>
+                    <parameter id="param.257" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">21.93</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t2588_89.29.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t2588_89.29" spec="TaxonSet">
+                    <taxon idref="01_Ajivika"/>
+                    <taxon idref="03_Gokulika"/>
+                    <taxon idref="04_Lokottaravada"/>
+                    <taxon idref="05_Kasyapiya"/>
+                    <taxon idref="06_Mahisasaka"/>
+                    <taxon idref="07_Mahasamghika"/>
+                    <taxon idref="08_Sammatiya"/>
+                    <taxon idref="09_Vatsiputriya"/>
+                    <taxon idref="10_Aparasaila"/>
+                    <taxon idref="11_Purvasaila"/>
+                    <taxon idref="12_Rajagirika"/>
+                    <taxon idref="13_Siddharthika"/>
+                    <taxon idref="14_Yapaniya"/>
+                    <taxon idref="16_Abhayagiri"/>
+                    <taxon idref="17_Jetavaniya"/>
+                    <taxon idref="19_Kyo"/>
+                    <taxon idref="20_Sanjiejiao"/>
+                    <taxon idref="21_NorthernChan"/>
+                    <taxon idref="22_Hosso"/>
+                    <taxon idref="23_Kegon"/>
+                    <taxon idref="24_Ritsu"/>
+                    <taxon idref="26_Soto"/>
+                    <taxon idref="28_Sarvastivada"/>
+                    <taxon idref="34_Tiantai"/>
+                    <taxon idref="35_WhiteLotus"/>
+                    <taxon idref="36_Nyingmapa"/>
+                    <taxon idref="37_Sakyapa"/>
+                    <taxon idref="60_Gelukpa"/>
+                    <taxon idref="38_Kagyupa"/>
+                    <taxon idref="39_Shingon"/>
+                    <taxon idref="40_Tachikawaryu"/>
+                    <taxon idref="43_Chorakuji"/>
+                    <taxon idref="49_Tendai"/>
+                    <taxon idref="50_Ji"/>
+                    <taxon idref="51_Seizan"/>
+                    <taxon idref="52_Fuji"/>
+                    <taxon idref="53_Seon"/>
+                    <taxon idref="54_Chinzei"/>
+                    <taxon idref="55_Shin"/>
+                    <taxon idref="61_Kadampa"/>
+                    <taxon idref="62_Obaku"/>
+                    <taxon idref="63_Rinzai"/>
+                    <taxon idref="65_Fujufuse"/>
+                    <taxon idref="66_Itchi"/>
+                    <taxon idref="67_Shoretsu"/>
+                    <taxon idref="68_TaranSvami"/>
+                    <taxon idref="72_Murtipujaka"/>
+                    <taxon idref="74_Bisapanthi"/>
+                    <taxon idref="75_DTerapanthi"/>
+                    <taxon idref="76_STerapanthi"/>
+                    <taxon idref="77_Sthanakvasi"/>
+                    <taxon idref="80_OtherMahanikaya"/>
+                    <taxon idref="81_Thudhamma"/>
+                    <taxon idref="83_ThaiMahanikaya"/>
+                    <taxon idref="84_Thammayut"/>
+                    <taxon idref="89_Ramanna"/>
+                    <taxon idref="90_SiyamNikaya"/>
+                </taxonset>
+                <Normal id="Normal.058" name="distr">
+                    <parameter id="param.158" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">2588.0</parameter>
+                    <parameter id="param.258" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">89.29</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t268_19.41.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t268_19.41" spec="TaxonSet">
+                    <taxon idref="74_Bisapanthi"/>
+                    <taxon idref="75_DTerapanthi"/>
+                </taxonset>
+                <Normal id="Normal.059" name="distr">
+                    <parameter id="param.159" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">268.0</parameter>
+                    <parameter id="param.259" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t294.5_32.8.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t294.5_32.8" spec="TaxonSet">
+                    <taxon idref="73_Udasi"/>
+                    <taxon idref="78_Namdhari"/>
+                    <taxon idref="79_TatKhalsa"/>
+                    <taxon idref="85_Nirankari"/>
+                    <taxon idref="86_Sanatan"/>
+                </taxonset>
+                <Normal id="Normal.060" name="distr">
+                    <parameter id="param.160" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">294.5</parameter>
+                    <parameter id="param.260" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">32.8</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t3418_388.2.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t3418_388.2" spec="TaxonSet">
+                    <taxon idref="01_Ajivika"/>
+                    <taxon idref="02_Vaikhanasa"/>
+                    <taxon idref="03_Gokulika"/>
+                    <taxon idref="04_Lokottaravada"/>
+                    <taxon idref="05_Kasyapiya"/>
+                    <taxon idref="06_Mahisasaka"/>
+                    <taxon idref="07_Mahasamghika"/>
+                    <taxon idref="08_Sammatiya"/>
+                    <taxon idref="09_Vatsiputriya"/>
+                    <taxon idref="10_Aparasaila"/>
+                    <taxon idref="11_Purvasaila"/>
+                    <taxon idref="12_Rajagirika"/>
+                    <taxon idref="13_Siddharthika"/>
+                    <taxon idref="14_Yapaniya"/>
+                    <taxon idref="15_Saura"/>
+                    <taxon idref="16_Abhayagiri"/>
+                    <taxon idref="17_Jetavaniya"/>
+                    <taxon idref="19_Kyo"/>
+                    <taxon idref="20_Sanjiejiao"/>
+                    <taxon idref="21_NorthernChan"/>
+                    <taxon idref="22_Hosso"/>
+                    <taxon idref="23_Kegon"/>
+                    <taxon idref="24_Ritsu"/>
+                    <taxon idref="25_Siddhanta"/>
+                    <taxon idref="26_Soto"/>
+                    <taxon idref="27_Pasupata"/>
+                    <taxon idref="28_Sarvastivada"/>
+                    <taxon idref="29_Aghori"/>
+                    <taxon idref="30_Krama"/>
+                    <taxon idref="31_Nath"/>
+                    <taxon idref="32_Srividya"/>
+                    <taxon idref="33_Trika"/>
+                    <taxon idref="34_Tiantai"/>
+                    <taxon idref="35_WhiteLotus"/>
+                    <taxon idref="36_Nyingmapa"/>
+                    <taxon idref="37_Sakyapa"/>
+                    <taxon idref="38_Kagyupa"/>
+                    <taxon idref="39_Shingon"/>
+                    <taxon idref="40_Tachikawaryu"/>
+                    <taxon idref="41_Kalamukha"/>
+                    <taxon idref="42_Virasaiva"/>
+                    <taxon idref="43_Chorakuji"/>
+                    <taxon idref="44_Mahanubhava"/>
+                    <taxon idref="45_Gaudiya"/>
+                    <taxon idref="46_Mahdva"/>
+                    <taxon idref="47_Nimanda"/>
+                    <taxon idref="48_Radhavallabhi"/>
+                    <taxon idref="49_Tendai"/>
+                    <taxon idref="50_Ji"/>
+                    <taxon idref="51_Seizan"/>
+                    <taxon idref="52_Fuji"/>
+                    <taxon idref="53_Seon"/>
+                    <taxon idref="54_Chinzei"/>
+                    <taxon idref="55_Shin"/>
+                    <taxon idref="58_Tenkalai"/>
+                    <taxon idref="59_Vatakalai"/>
+                    <taxon idref="60_Gelukpa"/>
+                    <taxon idref="61_Kadampa"/>
+                    <taxon idref="62_Obaku"/>
+                    <taxon idref="63_Rinzai"/>
+                    <taxon idref="64_Varkari"/>
+                    <taxon idref="65_Fujufuse"/>
+                    <taxon idref="66_Itchi"/>
+                    <taxon idref="67_Shoretsu"/>
+                    <taxon idref="68_TaranSvami"/>
+                    <taxon idref="69_Dadupanth"/>
+                    <taxon idref="70_Raidasi"/>
+                    <taxon idref="71_Ramanandi"/>
+                    <taxon idref="72_Murtipujaka"/>
+                    <taxon idref="73_Udasi"/>
+                    <taxon idref="74_Bisapanthi"/>
+                    <taxon idref="75_DTerapanthi"/>
+                    <taxon idref="76_STerapanthi"/>
+                    <taxon idref="77_Sthanakvasi"/>
+                    <taxon idref="78_Namdhari"/>
+                    <taxon idref="79_TatKhalsa"/>
+                    <taxon idref="80_OtherMahanikaya"/>
+                    <taxon idref="81_Thudhamma"/>
+                    <taxon idref="82_Vallabha"/>
+                    <taxon idref="83_ThaiMahanikaya"/>
+                    <taxon idref="84_Thammayut"/>
+                    <taxon idref="85_Nirankari"/>
+                    <taxon idref="86_Sanatan"/>
+                    <taxon idref="87_Kabirpanth"/>
+                    <taxon idref="88_Radhasoami"/>
+                    <taxon idref="89_Ramanna"/>
+                    <taxon idref="90_SiyamNikaya"/>
+                    <taxon idref="91_AryaSamaj"/>
+                    <taxon idref="92_NeoVedanta"/>
+                    <taxon idref="93_Smarta"/>
+                    <taxon idref="94_BAPS"/>
+                    <taxon idref="95_OtherSwaminarayan"/>
+                </taxonset>
+                <Normal id="Normal.061" name="distr">
+                    <parameter id="param.161" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">3418.0</parameter>
+                    <parameter id="param.261" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">388.2</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t368_58.23.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t368_58.23" spec="TaxonSet">
+                    <taxon idref="72_Murtipujaka"/>
+                    <taxon idref="76_STerapanthi"/>
+                    <taxon idref="77_Sthanakvasi"/>
+                </taxonset>
+                <Normal id="Normal.062" name="distr">
+                    <parameter id="param.162" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">368.0</parameter>
+                    <parameter id="param.262" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">58.23</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t39_6.21.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t39_6.21" spec="TaxonSet">
+                    <taxon idref="91_AryaSamaj"/>
+                    <taxon idref="92_NeoVedanta"/>
+                    <taxon idref="93_Smarta"/>
+                </taxonset>
+                <Normal id="Normal.064" name="distr">
+                    <parameter id="param.164" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">39.0</parameter>
+                    <parameter id="param.264" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">6.21</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t418_38.82.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t418_38.82" spec="TaxonSet">
+                    <taxon idref="69_Dadupanth"/>
+                    <taxon idref="70_Raidasi"/>
+                    <taxon idref="71_Ramanandi"/>
+                    <taxon idref="73_Udasi"/>
+                    <taxon idref="78_Namdhari"/>
+                    <taxon idref="79_TatKhalsa"/>
+                    <taxon idref="85_Nirankari"/>
+                    <taxon idref="86_Sanatan"/>
+                    <taxon idref="87_Kabirpanth"/>
+                    <taxon idref="88_Radhasoami"/>
+                </taxonset>
+                <Normal id="Normal.065" name="distr">
+                    <parameter id="param.165" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">418.0</parameter>
+                    <parameter id="param.265" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">38.82</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t426.5_9.12.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t426.5_9.12" spec="TaxonSet">
+                    <taxon idref="68_TaranSvami"/>
+                    <taxon idref="74_Bisapanthi"/>
+                    <taxon idref="75_DTerapanthi"/>
+                </taxonset>
+                <Normal id="Normal.066" name="distr">
+                    <parameter id="param.166" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">426.5</parameter>
+                    <parameter id="param.266" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">9.12</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t466.5_58.81.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t466.5_58.81" spec="TaxonSet">
+                    <taxon idref="65_Fujufuse"/>
+                    <taxon idref="66_Itchi"/>
+                    <taxon idref="67_Shoretsu"/>
+                </taxonset>
+                <Normal id="Normal.067" name="distr">
+                    <parameter id="param.167" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">466.5</parameter>
+                    <parameter id="param.267" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">58.81</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t468_19.41.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t468_19.41" spec="TaxonSet">
+                    <taxon idref="69_Dadupanth"/>
+                    <taxon idref="70_Raidasi"/>
+                    <taxon idref="71_Ramanandi"/>
+                    <taxon idref="64_Varkari"/>
+                    <taxon idref="73_Udasi"/>
+                    <taxon idref="78_Namdhari"/>
+                    <taxon idref="79_TatKhalsa"/>
+                    <taxon idref="85_Nirankari"/>
+                    <taxon idref="86_Sanatan"/>
+                    <taxon idref="87_Kabirpanth"/>
+                    <taxon idref="88_Radhasoami"/>
+                </taxonset>
+                <Normal id="Normal.068" name="distr">
+                    <parameter id="param.168" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">468.0</parameter>
+                    <parameter id="param.268" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t468_76.48.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t468_76.48" spec="TaxonSet">
+                    <taxon idref="62_Obaku"/>
+                    <taxon idref="63_Rinzai"/>
+                </taxonset>
+                <Normal id="Normal.069" name="distr">
+                    <parameter id="param.169" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">468.0</parameter>
+                    <parameter id="param.269" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">76.48</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t504_1.94.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t504_1.94" spec="TaxonSet">
+                    <taxon idref="60_Gelukpa"/>
+                    <taxon idref="61_Kadampa"/>
+                </taxonset>
+                <Normal id="Normal.070" name="distr">
+                    <parameter id="param.170" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">504.0</parameter>
+                    <parameter id="param.270" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">1.94</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t54_0.1.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t54_0.1" spec="TaxonSet">
+                    <taxon idref="89_Ramanna"/>
+                    <taxon idref="90_SiyamNikaya"/>
+                </taxonset>
+                <Normal id="Normal.071" name="distr">
+                    <parameter id="param.171" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">54.0</parameter>
+                    <parameter id="param.271" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t558_3.88.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t558_3.88" spec="TaxonSet">
+                    <taxon idref="58_Tenkalai"/>
+                    <taxon idref="59_Vatakalai"/>
+                </taxonset>
+                <Normal id="Normal.072" name="distr">
+                    <parameter id="param.172" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">558.0</parameter>
+                    <parameter id="param.272" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">3.88</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t57_0.1.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t57_0.1" spec="TaxonSet">
+                    <taxon idref="87_Kabirpanth"/>
+                    <taxon idref="88_Radhasoami"/>
+                </taxonset>
+                <Normal id="Normal.073" name="distr">
+                    <parameter id="param.173" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">57.0</parameter>
+                    <parameter id="param.273" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t595_164.21.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t595_164.21" spec="TaxonSet">
+                    <taxon idref="56_Kadmi"/>
+                    <taxon idref="57_Shenshai"/>
+                </taxonset>
+                <Normal id="Normal.074" name="distr">
+                    <parameter id="param.174" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">595.0</parameter>
+                    <parameter id="param.274" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">164.21</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t620.5_13.39.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t620.5_13.39" spec="TaxonSet">
+                    <taxon idref="54_Chinzei"/>
+                    <taxon idref="55_Shin"/>
+                </taxonset>
+                <Normal id="Normal.075" name="distr">
+                    <parameter id="param.175" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">620.5</parameter>
+                    <parameter id="param.275" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">13.39</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t622_33.39.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t622_33.39" spec="TaxonSet">
+                    <taxon idref="53_Seon"/>
+                    <taxon idref="62_Obaku"/>
+                    <taxon idref="63_Rinzai"/>
+                </taxonset>
+                <Normal id="Normal.076" name="distr">
+                    <parameter id="param.176" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">622.0</parameter>
+                    <parameter id="param.276" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">33.39</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t632_1.55.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t632_1.55" spec="TaxonSet">
+                    <taxon idref="52_Fuji"/>
+                    <taxon idref="65_Fujufuse"/>
+                    <taxon idref="66_Itchi"/>
+                    <taxon idref="67_Shoretsu"/>
+                </taxonset>
+                <Normal id="Normal.077" name="distr">
+                    <parameter id="param.177" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">632.0</parameter>
+                    <parameter id="param.277" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">1.55</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t642_0.78.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t642_0.78" spec="TaxonSet">
+                    <taxon idref="50_Ji"/>
+                    <taxon idref="51_Seizan"/>
+                </taxonset>
+                <Normal id="Normal.078" name="distr">
+                    <parameter id="param.178" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">642.0</parameter>
+                    <parameter id="param.278" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.78</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t650.5_5.63.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t650.5_5.63" spec="TaxonSet">
+                    <taxon idref="49_Tendai"/>
+                    <taxon idref="52_Fuji"/>
+                    <taxon idref="65_Fujufuse"/>
+                    <taxon idref="66_Itchi"/>
+                    <taxon idref="67_Shoretsu"/>
+                </taxonset>
+                <Normal id="Normal.079" name="distr">
+                    <parameter id="param.179" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">650.5</parameter>
+                    <parameter id="param.279" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">5.63</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t651.5_103.45.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t651.5_103.45" spec="TaxonSet">
+                    <taxon idref="44_Mahanubhava"/>
+                    <taxon idref="46_Mahdva"/>
+                    <taxon idref="47_Nimanda"/>
+                    <taxon idref="45_Gaudiya"/>
+                    <taxon idref="48_Radhavallabhi"/>
+                    <taxon idref="69_Dadupanth"/>
+                    <taxon idref="70_Raidasi"/>
+                    <taxon idref="71_Ramanandi"/>
+                    <taxon idref="64_Varkari"/>
+                    <taxon idref="73_Udasi"/>
+                    <taxon idref="78_Namdhari"/>
+                    <taxon idref="79_TatKhalsa"/>
+                    <taxon idref="82_Vallabha"/>
+                    <taxon idref="85_Nirankari"/>
+                    <taxon idref="86_Sanatan"/>
+                    <taxon idref="87_Kabirpanth"/>
+                    <taxon idref="88_Radhasoami"/>
+                    <taxon idref="94_BAPS"/>
+                    <taxon idref="95_OtherSwaminarayan"/>
+                </taxonset>
+                <Normal id="Normal.080" name="distr">
+                    <parameter id="param.180" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">651.5</parameter>
+                    <parameter id="param.280" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">103.45</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t67_0.1.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t67_0.1" spec="TaxonSet">
+                    <taxon idref="85_Nirankari"/>
+                    <taxon idref="86_Sanatan"/>
+                </taxonset>
+                <Normal id="Normal.081" name="distr">
+                    <parameter id="param.181" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">67.0</parameter>
+                    <parameter id="param.281" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">0.1</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t688.5_6.79.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t688.5_6.79" spec="TaxonSet">
+                    <taxon idref="43_Chorakuji"/>
+                    <taxon idref="50_Ji"/>
+                    <taxon idref="51_Seizan"/>
+                    <taxon idref="54_Chinzei"/>
+                    <taxon idref="55_Shin"/>
+                </taxonset>
+                <Normal id="Normal.082" name="distr">
+                    <parameter id="param.182" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">688.5</parameter>
+                    <parameter id="param.282" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">6.79</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t718_19.41.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t718_19.41" spec="TaxonSet">
+                    <taxon idref="44_Mahanubhava"/>
+                    <taxon idref="69_Dadupanth"/>
+                    <taxon idref="70_Raidasi"/>
+                    <taxon idref="71_Ramanandi"/>
+                    <taxon idref="64_Varkari"/>
+                    <taxon idref="73_Udasi"/>
+                    <taxon idref="78_Namdhari"/>
+                    <taxon idref="79_TatKhalsa"/>
+                    <taxon idref="85_Nirankari"/>
+                    <taxon idref="86_Sanatan"/>
+                    <taxon idref="87_Kabirpanth"/>
+                    <taxon idref="88_Radhasoami"/>
+                </taxonset>
+                <Normal id="Normal.083" name="distr">
+                    <parameter id="param.183" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">718.0</parameter>
+                    <parameter id="param.283" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t73_7.38.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t73_7.38" spec="TaxonSet">
+                    <taxon idref="83_ThaiMahanikaya"/>
+                    <taxon idref="84_Thammayut"/>
+                </taxonset>
+                <Normal id="Normal.084" name="distr">
+                    <parameter id="param.184" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">73.0</parameter>
+                    <parameter id="param.284" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">7.38</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t768_19.41.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t768_19.41" spec="TaxonSet">
+                    <taxon idref="41_Kalamukha"/>
+                    <taxon idref="42_Virasaiva"/>
+                </taxonset>
+                <Normal id="Normal.085" name="distr">
+                    <parameter id="param.185" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">768.0</parameter>
+                    <parameter id="param.285" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">19.41</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t793_9.7.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t793_9.7" spec="TaxonSet">
+                    <taxon idref="39_Shingon"/>
+                    <taxon idref="40_Tachikawaryu"/>
+                </taxonset>
+                <Normal id="Normal.086" name="distr">
+                    <parameter id="param.186" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">793.0</parameter>
+                    <parameter id="param.286" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">9.7</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t807_16.3.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t807_16.3" spec="TaxonSet">
+                    <taxon idref="38_Kagyupa"/>
+                    <taxon idref="60_Gelukpa"/>
+                    <taxon idref="61_Kadampa"/>
+                </taxonset>
+                <Normal id="Normal.087" name="distr">
+                    <parameter id="param.187" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">807.0</parameter>
+                    <parameter id="param.287" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">16.3</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t830.5_5.63.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t830.5_5.63" spec="TaxonSet">
+                    <taxon idref="36_Nyingmapa"/>
+                    <taxon idref="37_Sakyapa"/>
+                </taxonset>
+                <Normal id="Normal.088" name="distr">
+                    <parameter id="param.188" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">830.5</parameter>
+                    <parameter id="param.288" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">5.63</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t865_62.89.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t865_62.89" spec="TaxonSet">
+                    <taxon idref="34_Tiantai"/>
+                    <taxon idref="35_WhiteLotus"/>
+                    <taxon idref="43_Chorakuji"/>
+                    <taxon idref="49_Tendai"/>
+                    <taxon idref="50_Ji"/>
+                    <taxon idref="51_Seizan"/>
+                    <taxon idref="52_Fuji"/>
+                    <taxon idref="54_Chinzei"/>
+                    <taxon idref="55_Shin"/>
+                    <taxon idref="65_Fujufuse"/>
+                    <taxon idref="66_Itchi"/>
+                    <taxon idref="67_Shoretsu"/>
+                </taxonset>
+                <Normal id="Normal.089" name="distr">
+                    <parameter id="param.189" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">865.0</parameter>
+                    <parameter id="param.289" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">62.89</parameter>
+                </Normal>
+            </distribution>
+            <distribution id="t914.5_20.77.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:IndoIranian">
+                <taxonset id="t914.5_20.77" spec="TaxonSet">
+                    <taxon idref="36_Nyingmapa"/>
+                    <taxon idref="37_Sakyapa"/>
+                    <taxon idref="38_Kagyupa"/>
+                    <taxon idref="60_Gelukpa"/>
+                    <taxon idref="61_Kadampa"/>
+                </taxonset>
+                <Normal id="Normal.090" name="distr">
+                    <parameter id="param.190" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">914.5</parameter>
+                    <parameter id="param.290" spec="parameter.RealParameter" lower="0.0" name="sigma" upper="0.0">20.77</parameter>
+                </Normal>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="lambdasScaler.t:IndoIranian" spec="ScaleOperator" parameter="@lambdas.t:IndoIranian" scaleFactor="0.8" weight="1.0"/>
+
+    <operator id="musScaler.t:IndoIranian" spec="ScaleOperator" parameter="@mus.t:IndoIranian" scaleFactor="0.8" weight="1.0"/>
+
+    <operator id="gammaScaler.t:IndoIranian" spec="ScaleOperator" parameter="@gamma.t:IndoIranian" scaleFactor="0.8" weight="1.0"/>
+
+    <operator id="nstarScaler.t:IndoIranian" spec="IntRandomWalkOperator" parameter="@nstar.t:IndoIranian" weight="1.0" windowSize="2"/>
+
+    <operator id="stdSTX.t:IndoIranian" spec="multiratetree.operators.MRTSubtreeExchange" multiRateTree="@Tree.t:IndoIranian" stateChangeModel="@stdscModel.t:IndoIranian" weight="10.0"/>
+
+    <operator id="stdTWB.t:IndoIranian" spec="multiratetree.operators.MRTWilsonBalding" alpha="0.2" multiRateTree="@Tree.t:IndoIranian" stateChangeModel="@stdscModel.t:IndoIranian" weight="10.0"/>
+
+    <operator id="stdNR.t:IndoIranian" spec="multiratetree.operators.NodeRetype" multiRateTree="@Tree.t:IndoIranian" stateChangeModel="@stdscModel.t:IndoIranian" weight="10.0"/>
+
+    <operator id="stdNSR1.t:IndoIranian" spec="multiratetree.operators.NodeShiftRetype" multiRateTree="@Tree.t:IndoIranian" rootOnly="true" stateChangeModel="@stdscModel.t:IndoIranian" weight="10.0"/>
+
+<!--
+    <operator id="stdNSR2.t:IndoIranian" spec="multiratetree.operators.NodeShiftRetype" multiRateTree="@Tree.t:IndoIranian" noRoot="true" noLeaf="true" stateChangeModel="@stdscModel.t:IndoIranian" weight="10.0"/>
+-->    
+    <operator id="stdNSR2.t:IndoIranian" spec="multiratetree.operators.NodeShiftRetype" multiRateTree="@Tree.t:IndoIranian" noRoot="true" stateChangeModel="@stdscModel.t:IndoIranian" weight="10.0"/>
+
+    <operator id="stdMTU.t:IndoIranian" spec="multiratetree.operators.MultiRateTreeUniform" includeRoot="true" multiRateTree="@Tree.t:IndoIranian" stateChangeModel="@stdscModel.t:IndoIranian" weight="10.0"/>
+
+    <operator id="stdMTTS.t:IndoIranian" spec="multiratetree.operators.MultiRateTreeScale" multiRateTree="@Tree.t:IndoIranian" scaleFactor="0.98" stateChangeModel="@stdscModel.t:IndoIranian" useOldTreeScaler="true" weight="10.0"/>
+
+    <operator id="stdAddRemoveStates.t:IndoIranian" spec="multiratetree.operators.AddRemoveColourWPropagation" lambdaDistribution="@LogNormalDistributionModel.l0" muDistribution="@LogNormalDistributionModel.m0" multiRateTree="@Tree.t:IndoIranian" stateChangeModel="@stdscModel.t:IndoIranian" weight="20.0"/>
+
+    <operator id="stdMoveShifts.t:IndoIranian" spec="multiratetree.operators.MoveColourChange" multiRateTree="@Tree.t:IndoIranian" stateChangeModel="@stdscModel.t:IndoIranian" weight="10.0"/>
+
+    <operator id="stdChangeColours.t:IndoIranian" spec="multiratetree.operators.AddRemoveConnectedWPropagation" multiRateTree="@Tree.t:IndoIranian" stateChangeModel="@stdscModel.t:IndoIranian" weight="20.0"/>
+
+    <operator id="stdMTTUpDown.t:IndoIranian" spec="multiratetree.operators.MultiRateTreeScale" multiRateTree="@Tree.t:IndoIranian" scaleFactor="0.98" stateChangeModel="@stdscModel.t:IndoIranian" useOldTreeScaler="true" weight="10.0">
+        <parameterInverse idref="lambdas.t:IndoIranian"/>
+        <parameterInverse idref="mus.t:IndoIranian"/>
+        <parameterInverse idref="gamma.t:IndoIranian"/>
+    </operator>
+
+
+    <operator id="TipDatesRandomWalker.01_Ajivika.leaf" spec="TipDatesRandomWalker" taxonset="@01_Ajivika.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.03_Gokulika.leaf" spec="TipDatesRandomWalker" taxonset="@03_Gokulika.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.04_Lokottaravada.leaf" spec="TipDatesRandomWalker" taxonset="@04_Lokottaravada.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.05_Kasyapiya.leaf" spec="TipDatesRandomWalker" taxonset="@05_Kasyapiya.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.06_Mahisasaka.leaf" spec="TipDatesRandomWalker" taxonset="@06_Mahisasaka.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.07_Mahasamghika.leaf" spec="TipDatesRandomWalker" taxonset="@07_Mahasamghika.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.08_Sammatiya.leaf" spec="TipDatesRandomWalker" taxonset="@08_Sammatiya.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.09_Vatsiputriya.leaf" spec="TipDatesRandomWalker" taxonset="@09_Vatsiputriya.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.10_Aparasaila.leaf" spec="TipDatesRandomWalker" taxonset="@10_Aparasaila.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.11_Purvasaila.leaf" spec="TipDatesRandomWalker" taxonset="@11_Purvasaila.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.12_Rajagirika.leaf" spec="TipDatesRandomWalker" taxonset="@12_Rajagirika.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.13_Siddharthika.leaf" spec="TipDatesRandomWalker" taxonset="@13_Siddharthika.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.14_Yapaniya.leaf" spec="TipDatesRandomWalker" taxonset="@14_Yapaniya.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.15_Saura.leaf" spec="TipDatesRandomWalker" taxonset="@15_Saura.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.16_Abhayagiri.leaf" spec="TipDatesRandomWalker" taxonset="@16_Abhayagiri.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.17_Jetavaniya.leaf" spec="TipDatesRandomWalker" taxonset="@17_Jetavaniya.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.18_Mazdakite.leaf" spec="TipDatesRandomWalker" taxonset="@18_Mazdakite.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.19_Kyo.leaf" spec="TipDatesRandomWalker" taxonset="@19_Kyo.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.20_Sanjiejiao.leaf" spec="TipDatesRandomWalker" taxonset="@20_Sanjiejiao.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.21_NorthernChan.leaf" spec="TipDatesRandomWalker" taxonset="@21_NorthernChan.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.27_Pasupata.leaf" spec="TipDatesRandomWalker" taxonset="@27_Pasupata.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.28_Sarvastivada.leaf" spec="TipDatesRandomWalker" taxonset="@28_Sarvastivada.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.35_WhiteLotus.leaf" spec="TipDatesRandomWalker" taxonset="@35_WhiteLotus.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.40_Tachikawaryu.leaf" spec="TipDatesRandomWalker" taxonset="@40_Tachikawaryu.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.41_Kalamukha.leaf" spec="TipDatesRandomWalker" taxonset="@41_Kalamukha.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.43_Chorakuji.leaf" spec="TipDatesRandomWalker" taxonset="@43_Chorakuji.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <operator id="TipDatesRandomWalker.61_Kadampa.leaf" spec="TipDatesRandomWalker" taxonset="@61_Kadampa.leaf" tree="@Tree.t:IndoIranian" weight="1.0" windowSize="1.0"/>
+
+    <logger id="tracelog" spec="Logger" fileName="$(filebase).log" logEvery="50000">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log id="treeHeight.t:IndoIranian" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:IndoIranian"/>
+        <log id="totalStateChanges.t:IndoIranian" spec="multiratetree.util.StateChangesCountLogger" multiRateTree="@Tree.t:IndoIranian"/>
+        <!-- variable dimension, not suitable for tracelog
+        <log idref="lambdas.t:IndoIranian"/>
+        <log idref="mus.t:IndoIranian"/>
+        -->
+        <log idref="gamma.t:IndoIranian"/>
+        <log idref="nstar.t:IndoIranian"/>
+    </logger>
+
+    <logger id="screenlog" spec="Logger" logEvery="5000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log id="totalStateChanges.t:IndoIranian2" spec="multiratetree.util.StateChangesCountLogger" multiRateTree="@Tree.t:IndoIranian"/>
+        <log idref="gamma.t:IndoIranian"/>
+        <log idref="nstar.t:IndoIranian"/>
+    </logger>
+
+    <logger id="treelog.t:IndoIranian" spec="Logger" fileName="$(filebase).IndoIranian.trees" logEvery="50000" mode="tree">
+        <log idref="Tree.t:IndoIranian"/>
+    </logger>
+
+    <logger id="stdratestreelog.t:IndoIranian" spec="Logger" fileName="$(filebase).IndoIranian.rates.trees" logEvery="50000" mode="tree">
+        <log id="TreeWithParameterValuesLogger.0" spec="multiratetree.util.TreeWithParameterValuesLogger" logChangeNodes="false" stateChangeModel="@stdscModel.t:IndoIranian" tree="@Tree.t:IndoIranian"/>
+    </logger>
+
+    <logger id="stdStateslog.t:IndoIranian" spec="Logger" fileName="$(filebase).IndoIranian.states.log" logEvery="50000">
+        <log id="StateChangeModelLogger.0" spec="multiratetree.util.StateChangeModelLogger" stateChangeModel="@stdscModel.t:IndoIranian"/>
+    </logger>
+
+    <logger id="stdrateslog.t:IndoIranian" spec="Logger" fileName="$(filebase).IndoIranian.rates.log" logEvery="50000">
+        <log id="TipRatesLogger.0" spec="multiratetree.util.TipRatesLogger" multiRateTree="@Tree.t:IndoIranian" stateChangeModel="@stdscModel.t:IndoIranian"/>
+    </logger>
+
+</run>
+
+</beast>
