@@ -18,10 +18,11 @@ BEAST XML files are available as Supp Info XXX.
 
 
 
-        H0      (SD)    H1      (SD)    log BF  BF                              
-Islam   -185.37 0.49    -178.96 0.48    6.41    607.89                          
-Indo-Iranian    -430.27 0.58    -429.65 0.58    0.62       1.86                            
-Judeo-Christianity -532.34 0.78    -514.58 0.76    17.76   51,649,961.08                           
+|Group|H0      |(SD)    |H1      |(SD)    |log BF  |BF 
+|-----|--------:|--------:|--------:|--------:|--------:|------:
+|Islam  | -185.37| 0.49    |-178.96| 0.48    |6.41    |607.89                          
+|Indo-Iranian    |-430.27| 0.58    |-429.65| 0.58    |0.62       |1.86                            
+|Judeo-Christianity |-532.34| 0.78    |-514.58| 0.76    |17.76   |51,649,961.08                           
 
 Table XXX: marginal likelihood estimates from nested sampling for the two hypotheses H0: no rate changes, and H1: at least one rate change, and their standard deviations. Associated log Bayes factors (log BF) and Bayes factors (BF) in last two columns showing overwhelming support in favour of H1 for Islam and Judeo-Christianity, and no substantial difference for Indo-Iranian.
 
