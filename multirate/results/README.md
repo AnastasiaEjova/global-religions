@@ -15,3 +15,10 @@
 ## Combined tree for figure
 
 * combined.tree
+
+
+## Lineages through time data (including 95% HPDs)
+
+* IndoIranian.ltt
+* Islam.ltt
+* JudeoChris.ltt
