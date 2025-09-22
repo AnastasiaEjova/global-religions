@@ -1,6 +1,12 @@
-mcmc contains 4 runs with different values of sigma, the extinct sampling probability on recovery/extinction.
+
+
+To run the analysis you need [BEAST2](https://beast2.org) v2.7 with the [MSBD](https://bitbucket.org/bjoelle/msbd/), [NS](https://github.com/BEAST2-Dev/nested-sampling/wiki) and [AlmostDistributions](https://github.com/rbouckaert/AlmostDistributions) packages
+
+
+For the sensitivity analyses, MCMC contains 4 runs with different values of sigma, the extinct sampling probability on recovery/extinction.
 run as
 
+```
 cd sigma0.1
 ~/beast2.7/bin/beast -Dsigma=0.1 ../Islam_t0.xml > out.is 2>&1
 cd ../sigma0.25
@@ -9,6 +15,7 @@ cd ../sigma0.5
 ~/beast2.7/bin/beast -Dsigma=0.5 ../Islam_t0.xml > out.is 2>&1
 cd ../sigma0.99
 ~/beast2.7/bin/beast -Dsigma=0.99 ../Islam_t0.xml > out.is 2>&1
+```
 
 etc.
 
@@ -16,15 +23,20 @@ etc.
 
 
 ns contains nested sampling runs for two hypothesis: 
-H0: no rate changes
-H1: at least one rate change
+* H0: no rate changes
+* H1: at least one rate change
 
 
 for H0 run as
+
+```
 ~/beast2.7/bin/beast -D lower=-0.5,upper=0.5 ../../Islam_t0.xml > out.is 2>&1 &
 ~/beast2.7/bin/beast -D lower=-0.5,upper=0.5 ../../IndoIrania_t0.xml > out.in 2>&1 &
 ~/beast2.7/bin/beast -D lower=-0.5,upper=0.5 ../../JudeoChris_t0.xml > out.jc 2>&1 &
+```
 for H1 run as
+```
 ~/beast2.7/bin/beast -D lower=0.5,upper=100 ../../Islam_t0.xml > out.is 2>&1 &
 ~/beast2.7/bin/beast -D lower=0.5,upper=100 ../../IndoIrania_t0.xml > out.in 2>&1 &
 ~/beast2.7/bin/beast -D lower=0.5,upper=100 ../../JudeoChris_t0.xml > out.jc 2>&1 &
+```
